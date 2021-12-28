@@ -1,0 +1,1688 @@
+term,count,level,name
+GO:0022857,12803,2,transmembrane transporter activity
+GO:0005215,12803,1,transporter activity
+GO:0015075,8502,3,ion transmembrane transporter activity
+GO:0015318,7585,3,inorganic molecular entity transmembrane transporter activity
+GO:0008324,6371,4,cation transmembrane transporter activity
+GO:0022890,5802,4,inorganic cation transmembrane transporter activity
+GO:0022804,5101,3,active transmembrane transporter activity
+GO:0005488,4563,1,binding
+GO:0022803,4225,3,passive transmembrane transporter activity
+GO:0015267,4224,4,channel activity
+GO:0046873,3733,5,metal ion transmembrane transporter activity
+GO:0005216,3494,4,ion channel activity
+GO:0043167,3003,2,ion binding
+GO:0008509,2875,4,anion transmembrane transporter activity
+GO:0022853,2849,4,active ion transmembrane transporter activity
+GO:0015291,2604,4,secondary active transmembrane transporter activity
+GO:0005261,2569,5,cation channel activity
+GO:0022836,2557,5,gated channel activity
+GO:0015399,2547,4,primary active transmembrane transporter activity
+GO:0036094,2162,2,small molecule binding
+GO:0097159,2145,2,organic cyclic compound binding
+GO:1901363,2116,2,heterocyclic compound binding
+GO:0043168,2094,3,anion binding
+GO:0140657,2089,1,ATP-dependent activity
+GO:0042626,1972,2,ATPase-coupled transmembrane transporter activity
+GO:1901265,1894,3,nucleoside phosphate binding
+GO:0000166,1894,3,nucleotide binding
+GO:0005515,1892,2,protein binding
+GO:0097367,1818,2,carbohydrate derivative binding
+GO:0032553,1805,3,ribonucleotide binding
+GO:0017076,1779,4,purine nucleotide binding
+GO:0032555,1777,4,purine ribonucleotide binding
+GO:0032559,1715,5,adenyl ribonucleotide binding
+GO:0030554,1715,5,adenyl nucleotide binding
+GO:0035639,1702,4,purine ribonucleoside triphosphate binding
+GO:0015078,1686,5,proton transmembrane transporter activity
+GO:0005524,1676,5,ATP binding
+GO:0008514,1567,5,organic anion transmembrane transporter activity
+GO:0043169,1562,3,cation binding
+GO:0046872,1459,4,metal ion binding
+GO:0005342,1431,3,organic acid transmembrane transporter activity
+GO:0046943,1422,4,carboxylic acid transmembrane transporter activity
+GO:0015103,1394,4,inorganic anion transmembrane transporter activity
+GO:0003824,1387,1,catalytic activity
+GO:0022832,1334,6,voltage-gated channel activity
+GO:0005244,1330,4,voltage-gated ion channel activity
+GO:0015079,1310,6,potassium ion transmembrane transporter activity
+GO:0015293,1271,5,symporter activity
+GO:0015081,1196,6,sodium ion transmembrane transporter activity
+GO:0015085,1133,6,calcium ion transmembrane transporter activity
+GO:0022834,1124,6,ligand-gated channel activity
+GO:0015276,1116,5,ligand-gated ion channel activity
+GO:0015297,1112,5,antiporter activity
+GO:0022843,911,5,voltage-gated cation channel activity
+GO:0019829,862,3,ATPase-coupled cation transmembrane transporter activity
+GO:0015294,851,5,solute:cation symporter activity
+GO:0015171,829,5,amino acid transmembrane transporter activity
+GO:0005267,826,6,potassium channel activity
+GO:0005262,825,6,calcium channel activity
+GO:0099094,781,6,ligand-gated cation channel activity
+GO:0060089,775,1,molecular transducer activity
+GO:0038023,770,2,signaling receptor activity
+GO:0042802,698,3,identical protein binding
+GO:0004888,695,3,transmembrane signaling receptor activity
+GO:0005253,652,5,anion channel activity
+GO:0016491,631,2,oxidoreductase activity
+GO:1901505,628,3,carbohydrate derivative transmembrane transporter activity
+GO:0005230,590,6,extracellular ligand-gated ion channel activity
+GO:0046915,576,6,transition metal ion transmembrane transporter activity
+GO:0005249,573,6,voltage-gated potassium channel activity
+GO:0015453,569,5,oxidoreduction-driven active transmembrane transporter activity
+GO:0015932,549,3,nucleobase-containing compound transmembrane transporter activity
+GO:0015144,547,3,carbohydrate transmembrane transporter activity
+GO:0009055,538,3,electron transfer activity
+GO:0009678,518,5,pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+GO:0030594,514,3,neurotransmitter receptor activity
+GO:0005254,507,6,chloride channel activity
+GO:0015370,502,6,solute:sodium symporter activity
+GO:0015179,495,6,L-amino acid transmembrane transporter activity
+GO:0015662,442,4,P-type ion transporter activity
+GO:0140358,442,3,P-type transmembrane transporter activity
+GO:1901682,439,3,sulfur compound transmembrane transporter activity
+GO:0008028,431,5,monocarboxylic acid transmembrane transporter activity
+GO:0015298,411,5,solute:cation antiporter activity
+GO:0022824,409,5,transmitter-gated ion channel activity
+GO:0022835,409,4,transmitter-gated channel activity
+GO:0019899,407,3,enzyme binding
+GO:0042625,398,3,ATPase-coupled ion transmembrane transporter activity
+GO:0044769,397,4,"ATPase activity, coupled to transmembrane movement of ions, rotational mechanism"
+GO:0046961,397,4,"proton-transporting ATPase activity, rotational mechanism"
+GO:0005319,386,2,lipid transporter activity
+GO:0042887,381,3,amide transmembrane transporter activity
+GO:0022829,366,5,wide pore channel activity
+GO:0098772,358,1,molecular function regulator
+GO:0005372,356,4,water transmembrane transporter activity
+GO:0042910,355,3,xenobiotic transmembrane transporter activity
+GO:0022884,351,3,macromolecule transmembrane transporter activity
+GO:0016787,341,2,hydrolase activity
+GO:0005509,340,5,calcium ion binding
+GO:1901618,336,3,organic hydroxy compound transmembrane transporter activity
+GO:0051119,334,4,sugar transmembrane transporter activity
+GO:0044877,331,2,protein-containing complex binding
+GO:0015250,329,5,water channel activity
+GO:0022839,327,6,ion gated channel activity
+GO:0015491,326,6,cation:cation antiporter activity
+GO:0016651,324,3,"oxidoreductase activity, acting on NAD(P)H"
+GO:0015605,323,3,organophosphate ester transmembrane transporter activity
+GO:0140318,322,2,protein transporter activity
+GO:0098960,314,4,postsynaptic neurotransmitter receptor activity
+GO:0005272,312,6,sodium channel activity
+GO:0008320,312,3,protein transmembrane transporter activity
+GO:0016655,310,4,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor"
+GO:0050136,309,5,NADH dehydrogenase (quinone) activity
+GO:0003955,309,5,NAD(P)H dehydrogenase (quinone) activity
+GO:0008137,309,4,NADH dehydrogenase (ubiquinone) activity
+GO:0003954,309,4,NADH dehydrogenase activity
+GO:0140323,308,5,solute:anion antiporter activity
+GO:1904315,307,6,transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential
+GO:0099529,307,5,neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential
+GO:0008289,301,2,lipid binding
+GO:0005245,300,6,voltage-gated calcium channel activity
+GO:0016874,296,2,ligase activity
+GO:0140359,291,3,ABC-type transporter activity
+GO:0015299,288,6,solute:proton antiporter activity
+GO:0015252,288,6,proton channel activity
+GO:0015301,280,6,anion:anion antiporter activity
+GO:0005516,279,3,calmodulin binding
+GO:0015175,275,6,neutral amino acid transmembrane transporter activity
+GO:0005231,272,7,excitatory extracellular ligand-gated ion channel activity
+GO:0046983,267,3,protein dimerization activity
+GO:0046933,265,3,"proton-transporting ATP synthase activity, rotational mechanism"
+GO:0015295,261,6,solute:proton symporter activity
+GO:0005385,260,7,zinc ion transmembrane transporter activity
+GO:0019904,258,3,protein domain specific binding
+GO:0016247,256,2,channel regulator activity
+GO:0015215,250,4,nucleotide transmembrane transporter activity
+GO:0005310,248,5,dicarboxylic acid transmembrane transporter activity
+GO:0099106,231,3,ion channel regulator activity
+GO:0015101,231,5,organic cation transmembrane transporter activity
+GO:0008308,229,5,voltage-gated anion channel activity
+GO:0015145,226,5,monosaccharide transmembrane transporter activity
+GO:0005227,224,6,calcium activated cation channel activity
+GO:0090482,222,3,vitamin transmembrane transporter activity
+GO:0008092,216,3,cytoskeletal protein binding
+GO:0005217,216,6,intracellular ligand-gated ion channel activity
+GO:0015216,204,5,purine nucleotide transmembrane transporter activity
+GO:1904680,203,4,peptide transmembrane transporter activity
+GO:0005451,202,7,monovalent cation:proton antiporter activity
+GO:0003676,199,3,nucleic acid binding
+GO:0051139,196,6,metal ion:proton antiporter activity
+GO:0005338,195,4,nucleotide-sugar transmembrane transporter activity
+GO:0015149,193,6,hexose transmembrane transporter activity
+GO:0000295,191,6,adenine nucleotide transmembrane transporter activity
+GO:0005346,191,4,purine ribonucleotide transmembrane transporter activity
+GO:0044325,191,3,transmembrane transporter binding
+GO:0005343,190,4,organic acid:sodium symporter activity
+GO:0005388,188,4,P-type calcium transporter activity
+GO:0005402,187,4,carbohydrate:cation symporter activity
+GO:0046914,187,5,transition metal ion binding
+GO:0015296,185,5,anion:cation symporter activity
+GO:0005102,185,3,signaling receptor binding
+GO:0008519,183,5,ammonium transmembrane transporter activity
+GO:0016740,183,2,transferase activity
+GO:0022821,180,5,potassium ion antiporter activity
+GO:0033218,179,2,amide binding
+GO:0015116,178,4,sulfate transmembrane transporter activity
+GO:0042803,176,4,protein homodimerization activity
+GO:0005243,176,6,gap junction channel activity
+GO:0099604,174,7,ligand-gated calcium channel activity
+GO:0043178,173,3,alcohol binding
+GO:0051540,171,2,metal cluster binding
+GO:0140096,171,2,"catalytic activity, acting on a protein"
+GO:0051536,170,3,iron-sulfur cluster binding
+GO:0015556,166,6,C4-dicarboxylate transmembrane transporter activity
+GO:0005251,166,7,delayed rectifier potassium channel activity
+GO:0015106,164,6,bicarbonate transmembrane transporter activity
+GO:0015288,162,6,porin activity
+GO:0008066,162,4,glutamate receptor activity
+GO:0005355,161,7,glucose transmembrane transporter activity
+GO:0015562,161,3,efflux transmembrane transporter activity
+GO:0043225,159,3,ATPase-coupled inorganic anion transmembrane transporter activity
+GO:0015385,158,7,sodium:proton antiporter activity
+GO:0015377,158,6,cation:chloride symporter activity
+GO:0008553,158,4,P-type proton-exporting transporter activity
+GO:0015165,157,5,pyrimidine nucleotide-sugar transmembrane transporter activity
+GO:0003723,157,4,RNA binding
+GO:0022848,155,7,acetylcholine-gated cation-selective channel activity
+GO:0016675,154,3,"oxidoreductase activity, acting on a heme group of donors"
+GO:0015095,153,6,magnesium ion transmembrane transporter activity
+GO:0042277,153,3,peptide binding
+GO:0005384,153,7,manganese ion transmembrane transporter activity
+GO:0016772,151,3,"transferase activity, transferring phosphorus-containing groups"
+GO:0022840,151,6,leak channel activity
+GO:0022842,151,5,narrow pore channel activity
+GO:0005452,150,5,inorganic anion exchanger activity
+GO:0004129,150,4,cytochrome-c oxidase activity
+GO:0005242,146,7,inward rectifier potassium channel activity
+GO:0005416,145,6,amino acid:cation symporter activity
+GO:0030165,145,4,PDZ domain binding
+GO:0005543,144,3,phospholipid binding
+GO:0004970,140,5,ionotropic glutamate receptor activity
+GO:0015174,139,6,basic amino acid transmembrane transporter activity
+GO:0005248,139,7,voltage-gated sodium channel activity
+GO:0022841,137,7,potassium ion leak channel activity
+GO:0005315,136,4,inorganic phosphate transmembrane transporter activity
+GO:0015368,135,7,calcium:cation antiporter activity
+GO:0072349,135,3,modified amino acid transmembrane transporter activity
+GO:0015108,134,4,chloride transmembrane transporter activity
+GO:0015386,134,6,potassium:proton antiporter activity
+GO:0005347,132,5,ATP transmembrane transporter activity
+GO:0015172,132,6,acidic amino acid transmembrane transporter activity
+GO:0051117,132,4,ATPase binding
+GO:0008233,131,3,peptidase activity
+GO:0008556,128,4,P-type potassium transmembrane transporter activity
+GO:0015278,125,7,calcium-release channel activity
+GO:0008271,124,5,secondary active sulfate transmembrane transporter activity
+GO:0035673,123,5,oligopeptide transmembrane transporter activity
+GO:0005283,122,5,amino acid:sodium symporter activity
+GO:0005351,121,5,carbohydrate:proton symporter activity
+GO:0005381,120,7,iron ion transmembrane transporter activity
+GO:0099095,119,6,ligand-gated anion channel activity
+GO:0005326,119,3,neurotransmitter transmembrane transporter activity
+GO:0005198,117,1,structural molecule activity
+GO:0015459,116,4,potassium channel regulator activity
+GO:0019900,116,4,kinase binding
+GO:0005313,112,6,L-glutamate transmembrane transporter activity
+GO:0051539,112,4,"4 iron, 4 sulfur cluster binding"
+GO:0005247,111,6,voltage-gated chloride channel activity
+GO:0005375,109,7,copper ion transmembrane transporter activity
+GO:0019901,109,5,protein kinase binding
+GO:0016917,107,4,GABA receptor activity
+GO:0004890,106,5,GABA-A receptor activity
+GO:0061778,106,7,intracellular chloride channel activity
+GO:0046906,106,3,tetrapyrrole binding
+GO:0015114,105,5,phosphate ion transmembrane transporter activity
+GO:0004175,105,4,endopeptidase activity
+GO:0020037,105,4,heme binding
+GO:0005229,105,7,intracellular calcium activated chloride channel activity
+GO:0008559,104,4,ABC-type xenobiotic transporter activity
+GO:0008554,104,4,P-type sodium transporter activity
+GO:0005432,103,7,calcium:sodium antiporter activity
+GO:0015157,103,4,oligosaccharide transmembrane transporter activity
+GO:0015154,102,5,disaccharide transmembrane transporter activity
+GO:0005391,101,5,P-type sodium:potassium-exchanging transporter activity
+GO:0015379,101,7,potassium:chloride symporter activity
+GO:1901474,101,3,azole transmembrane transporter activity
+GO:0008381,100,5,mechanosensitive ion channel activity
+GO:0015373,98,6,anion:sodium symporter activity
+GO:0015355,97,5,secondary active monocarboxylate transmembrane transporter activity
+GO:0015125,96,3,bile acid transmembrane transporter activity
+GO:0005337,96,4,nucleoside transmembrane transporter activity
+GO:0015347,95,5,sodium-independent organic anion transmembrane transporter activity
+GO:0035091,94,4,phosphatidylinositol binding
+GO:0015280,94,7,ligand-gated sodium channel activity
+GO:0015086,93,7,cadmium ion transmembrane transporter activity
+GO:0005324,93,3,long-chain fatty acid transporter activity
+GO:0015271,93,7,outward rectifier potassium channel activity
+GO:0015450,93,3,protein-transporting ATPase activity
+GO:0003779,92,4,actin binding
+GO:0015217,92,5,ADP transmembrane transporter activity
+GO:0031406,89,4,carboxylic acid binding
+GO:0015173,87,6,aromatic amino acid transmembrane transporter activity
+GO:0030234,87,2,enzyme regulator activity
+GO:0016818,86,4,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+GO:0016817,86,3,"hydrolase activity, acting on acid anhydrides"
+GO:0015378,86,7,sodium:chloride symporter activity
+GO:0016462,86,5,pyrophosphatase activity
+GO:0035381,85,4,ATP-gated ion channel activity
+GO:0015166,85,4,polyol transmembrane transporter activity
+GO:0046982,85,4,protein heterodimerization activity
+GO:0016679,84,3,"oxidoreductase activity, acting on diphenols and related substances as donors"
+GO:0015269,84,7,calcium-activated potassium channel activity
+GO:0043177,83,3,organic acid binding
+GO:0015112,83,5,nitrate transmembrane transporter activity
+GO:0140640,83,2,"catalytic activity, acting on a nucleic acid"
+GO:0008331,80,7,high voltage-gated calcium channel activity
+GO:0015141,80,6,succinate transmembrane transporter activity
+GO:0048038,80,2,quinone binding
+GO:0019001,80,5,guanyl nucleotide binding
+GO:0140098,80,3,"catalytic activity, acting on RNA"
+GO:0008186,79,2,"ATP-dependent activity, acting on RNA"
+GO:0003724,79,3,RNA helicase activity
+GO:0005459,79,6,UDP-galactose transmembrane transporter activity
+GO:0015651,79,6,quaternary ammonium group transmembrane transporter activity
+GO:0005237,79,7,inhibitory extracellular ligand-gated ion channel activity
+GO:0004386,79,2,helicase activity
+GO:0016779,78,4,nucleotidyltransferase activity
+GO:0015205,78,3,nucleobase transmembrane transporter activity
+GO:0003968,78,6,RNA-directed 5'-3' RNA polymerase activity
+GO:0015279,78,7,store-operated calcium channel activity
+GO:0097747,78,4,RNA polymerase activity
+GO:0034062,78,5,5'-3' RNA polymerase activity
+GO:0032561,78,5,guanyl ribonucleotide binding
+GO:0005048,78,4,signal sequence binding
+GO:0061459,77,5,L-arginine transmembrane transporter activity
+GO:0008270,77,6,zinc ion binding
+GO:0015183,75,6,L-aspartate transmembrane transporter activity
+GO:0043021,75,3,ribonucleoprotein complex binding
+GO:0070679,73,4,"inositol 1,4,5 trisphosphate binding"
+GO:0005507,72,6,copper ion binding
+GO:0140161,72,5,monocarboxylate:sodium symporter activity
+GO:0051537,72,4,"2 iron, 2 sulfur cluster binding"
+GO:0008515,72,6,sucrose transmembrane transporter activity
+GO:0016773,72,4,"phosphotransferase activity, alcohol group as acceptor"
+GO:0140303,70,3,intramembrane lipid transporter activity
+GO:0017111,70,6,nucleoside-triphosphatase activity
+GO:0005548,68,3,phospholipid transporter activity
+GO:0015232,68,3,heme transmembrane transporter activity
+GO:0015189,67,5,L-lysine transmembrane transporter activity
+GO:0043855,67,6,cyclic nucleotide-gated ion channel activity
+GO:0005221,67,7,intracellular cyclic nucleotide activated cation channel activity
+GO:0022889,67,5,serine transmembrane transporter activity
+GO:0016597,66,4,amino acid binding
+GO:1901981,66,5,phosphatidylinositol phosphate binding
+GO:0071916,65,6,dipeptide transmembrane transporter activity
+GO:0140410,65,5,solute:bicarbonate symporter activity
+GO:0008234,64,4,cysteine-type peptidase activity
+GO:0022851,64,5,GABA-gated chloride ion channel activity
+GO:0042165,64,2,neurotransmitter binding
+GO:0030551,64,4,cyclic nucleotide binding
+GO:1902936,64,6,phosphatidylinositol bisphosphate binding
+GO:0097110,64,3,scaffold protein binding
+GO:0008121,63,4,ubiquinol-cytochrome-c reductase activity
+GO:0015185,62,6,gamma-aminobutyric acid transmembrane transporter activity
+GO:0004197,62,5,cysteine-type endopeptidase activity
+GO:0015140,61,6,malate transmembrane transporter activity
+GO:0008510,61,6,sodium:bicarbonate symporter activity
+GO:0009669,61,5,sucrose:cation symporter activity
+GO:0000064,61,5,L-ornithine transmembrane transporter activity
+GO:0008506,61,6,sucrose:proton symporter activity
+GO:0015204,60,4,urea transmembrane transporter activity
+GO:0015186,60,5,L-glutamine transmembrane transporter activity
+GO:0019531,60,6,oxalate transmembrane transporter activity
+GO:0005471,60,6,ATP:ADP antiporter activity
+GO:0008504,60,4,monoamine transmembrane transporter activity
+GO:0005246,59,4,calcium channel regulator activity
+GO:0005496,58,3,steroid binding
+GO:0004931,58,5,extracellularly ATP-gated cation channel activity
+GO:0000099,58,4,sulfur amino acid transmembrane transporter activity
+GO:0015168,58,4,glycerol transmembrane transporter activity
+GO:0015245,58,3,fatty acid transmembrane transporter activity
+GO:0016502,57,4,nucleotide receptor activity
+GO:0005436,57,7,sodium:phosphate symporter activity
+GO:0001614,57,5,purinergic nucleotide receptor activity
+GO:0080161,56,3,auxin transmembrane transporter activity
+GO:0015187,56,5,glycine transmembrane transporter activity
+GO:0043022,56,4,ribosome binding
+GO:0005345,55,4,purine nucleobase transmembrane transporter activity
+GO:0019902,55,4,phosphatase binding
+GO:0005353,55,7,fructose transmembrane transporter activity
+GO:0016301,54,4,kinase activity
+GO:0140326,54,2,ATPase-coupled intramembrane lipid transporter activity
+GO:0043531,54,4,ADP binding
+GO:0010329,53,4,auxin efflux transmembrane transporter activity
+GO:0019842,53,3,vitamin binding
+GO:0051287,53,4,NAD binding
+GO:0017077,52,3,oxidative phosphorylation uncoupler activity
+GO:0030506,52,4,ankyrin binding
+GO:0015464,51,4,acetylcholine receptor activity
+GO:0031420,51,5,alkali metal ion binding
+GO:0022858,51,5,alanine transmembrane transporter activity
+GO:0051015,50,3,actin filament binding
+GO:0005412,50,5,glucose:sodium symporter activity
+GO:0019903,50,5,protein phosphatase binding
+GO:0015440,49,4,ABC-type peptide transporter activity
+GO:0000149,49,3,SNARE binding
+GO:0005225,49,6,volume-sensitive anion channel activity
+GO:0030246,48,2,carbohydrate binding
+GO:0050833,48,6,pyruvate transmembrane transporter activity
+GO:0005222,48,8,intracellular cAMP-activated cation channel activity
+GO:0015343,48,3,siderophore transmembrane transporter activity
+GO:0086008,48,7,voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization
+GO:0005223,47,8,intracellular cGMP-activated cation channel activity
+GO:0008982,47,4,protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+GO:0005290,47,4,L-histidine transmembrane transporter activity
+GO:0015129,46,4,lactate transmembrane transporter activity
+GO:0000822,46,4,inositol hexakisphosphate binding
+GO:0071077,46,5,"adenosine 3',5'-bisphosphate transmembrane transporter activity"
+GO:0015131,46,6,oxaloacetate transmembrane transporter activity
+GO:0005546,46,4,"phosphatidylinositol-4,5-bisphosphate binding"
+GO:0019905,45,4,syntaxin binding
+GO:0030553,45,4,cGMP binding
+GO:0005219,45,8,ryanodine-sensitive calcium-release channel activity
+GO:0019534,45,3,toxin transmembrane transporter activity
+GO:0042166,45,3,acetylcholine binding
+GO:0044389,44,4,ubiquitin-like protein ligase binding
+GO:0016594,44,4,glycine binding
+GO:0042937,44,6,tripeptide transmembrane transporter activity
+GO:0032217,44,4,riboflavin transmembrane transporter activity
+GO:0055077,44,6,gap junction hemi-channel activity
+GO:0031625,44,5,ubiquitin protein ligase binding
+GO:0015665,44,4,alcohol transmembrane transporter activity
+GO:0008273,43,6,"calcium, potassium:sodium antiporter activity"
+GO:0140678,43,2,molecular function inhibitor activity
+GO:0048763,43,8,calcium-induced calcium release activity
+GO:0015117,43,4,thiosulfate transmembrane transporter activity
+GO:0016248,42,3,channel inhibitor activity
+GO:0002020,42,4,protease binding
+GO:0005332,41,6,gamma-aminobutyric acid:sodium symporter activity
+GO:0090563,41,4,protein-phosphocysteine-sugar phosphotransferase activity
+GO:0015658,41,6,branched-chain amino acid transmembrane transporter activity
+GO:0015234,41,4,thiamine transmembrane transporter activity
+GO:0008022,41,3,protein C-terminus binding
+GO:0034040,40,3,ATPase-coupled lipid transmembrane transporter activity
+GO:0008237,40,4,metallopeptidase activity
+GO:0050839,40,3,cell adhesion molecule binding
+GO:0015220,40,6,choline transmembrane transporter activity
+GO:0003677,40,4,DNA binding
+GO:0015277,40,6,kainate selective glutamate receptor activity
+GO:0072341,40,2,modified amino acid binding
+GO:0015180,40,6,L-alanine transmembrane transporter activity
+GO:0008332,39,7,low voltage-gated calcium channel activity
+GO:0048306,39,3,calcium-dependent protein binding
+GO:0015349,39,5,thyroid hormone transmembrane transporter activity
+GO:0051087,39,3,chaperone binding
+GO:0015093,39,8,ferrous iron transmembrane transporter activity
+GO:0015136,38,4,sialic acid transmembrane transporter activity
+GO:0016788,38,3,"hydrolase activity, acting on ester bonds"
+GO:0099511,37,7,voltage-gated calcium channel activity involved in regulation of cytosolic calcium levels
+GO:0004971,37,6,AMPA glutamate receptor activity
+GO:0099626,36,8,voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium levels
+GO:0140328,35,3,floppase activity
+GO:0030552,35,4,cAMP binding
+GO:0004972,35,6,NMDA glutamate receptor activity
+GO:0016722,35,3,"oxidoreductase activity, acting on metal ions"
+GO:0015193,35,5,L-proline transmembrane transporter activity
+GO:0015142,35,5,tricarboxylic acid transmembrane transporter activity
+GO:0015431,35,4,ABC-type glutathione S-conjugate transporter activity
+GO:0016933,35,8,extracellularly glycine-gated ion channel activity
+GO:0008200,35,4,ion channel inhibitor activity
+GO:0004857,34,3,enzyme inhibitor activity
+GO:0015369,34,7,calcium:proton antiporter activity
+GO:0003729,34,5,mRNA binding
+GO:0043682,34,4,P-type divalent copper transporter activity
+GO:0015214,34,5,pyrimidine nucleoside transmembrane transporter activity
+GO:0015203,34,3,polyamine transmembrane transporter activity
+GO:0004930,34,4,G protein-coupled receptor activity
+GO:0055056,34,8,D-glucose transmembrane transporter activity
+GO:1903763,34,7,gap junction channel activity involved in cell communication by electrical coupling
+GO:0015137,34,6,citrate transmembrane transporter activity
+GO:0005462,34,6,UDP-N-acetylglucosamine transmembrane transporter activity
+GO:0019840,33,3,isoprenoid binding
+GO:0005506,33,6,iron ion binding
+GO:0140571,33,4,transmembrane ascorbate ferrireductase activity
+GO:0030943,33,5,mitochondrion targeting sequence binding
+GO:0017171,33,3,serine hydrolase activity
+GO:0005501,33,4,retinoid binding
+GO:0008525,33,4,phosphatidylcholine transporter activity
+GO:0008236,33,4,serine-type peptidase activity
+GO:0009674,33,7,potassium:sodium symporter activity
+GO:0015194,33,6,L-serine transmembrane transporter activity
+GO:0005460,33,6,UDP-glucose transmembrane transporter activity
+GO:0016616,32,4,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GO:0016614,32,3,"oxidoreductase activity, acting on CH-OH group of donors"
+GO:0015315,32,6,organophosphate:inorganic phosphate antiporter activity
+GO:0001540,32,4,amyloid-beta binding
+GO:0140299,32,1,small molecule sensor activity
+GO:0008511,32,8,sodium:potassium:chloride symporter activity
+GO:0004252,32,5,serine-type endopeptidase activity
+GO:0016878,31,4,acid-thiol ligase activity
+GO:0031957,31,3,very long-chain fatty acid-CoA ligase activity
+GO:0036080,31,5,purine nucleotide-sugar transmembrane transporter activity
+GO:0015645,31,2,fatty acid ligase activity
+GO:1901702,31,3,salt transmembrane transporter activity
+GO:0032934,31,4,sterol binding
+GO:0033300,31,4,dehydroascorbic acid transmembrane transporter activity
+GO:0017080,31,4,sodium channel regulator activity
+GO:0015485,31,4,cholesterol binding
+GO:0015143,31,4,urate transmembrane transporter activity
+GO:0016877,31,3,"ligase activity, forming carbon-sulfur bonds"
+GO:0016405,31,4,CoA-ligase activity
+GO:0004467,31,3,long-chain fatty acid-CoA ligase activity
+GO:0042287,30,4,MHC protein binding
+GO:0001786,30,3,phosphatidylserine binding
+GO:0015184,30,4,L-cystine transmembrane transporter activity
+GO:0005335,30,4,serotonin:sodium symporter activity
+GO:0030955,30,6,potassium ion binding
+GO:0072320,30,7,volume-sensitive chloride channel activity
+GO:0015292,30,5,uniporter activity
+GO:0042805,30,4,actinin binding
+GO:0015087,30,7,cobalt ion transmembrane transporter activity
+GO:0090554,30,4,phosphatidylcholine floppase activity
+GO:0047834,30,5,D-threo-aldose 1-dehydrogenase activity
+GO:1901681,30,2,sulfur compound binding
+GO:0015501,29,6,glutamate:sodium symporter activity
+GO:0015254,29,5,glycerol channel activity
+GO:0031402,29,6,sodium ion binding
+GO:0005544,29,4,calcium-dependent phospholipid binding
+GO:0003725,29,5,double-stranded RNA binding
+GO:0005525,29,5,GTP binding
+GO:0140327,28,3,flippase activity
+GO:0010181,28,4,FMN binding
+GO:0005350,28,4,pyrimidine nucleobase transmembrane transporter activity
+GO:0072345,28,8,NAADP-sensitive calcium-release channel activity
+GO:0140333,28,4,glycerophospholipid flippase activity
+GO:0015190,28,5,L-leucine transmembrane transporter activity
+GO:0034632,28,3,retinol transmembrane transporter activity
+GO:0000287,28,5,magnesium ion binding
+GO:0015272,27,8,ATP-activated inward rectifier potassium channel activity
+GO:0051020,27,4,GTPase binding
+GO:0015211,27,5,purine nucleoside transmembrane transporter activity
+GO:0045296,27,4,cadherin binding
+GO:0016934,27,7,extracellularly glycine-gated chloride channel activity
+GO:0060090,27,1,molecular adaptor activity
+GO:0035254,27,4,glutamate receptor binding
+GO:0015230,27,5,FAD transmembrane transporter activity
+GO:0031267,27,5,small GTPase binding
+GO:0022849,27,6,glutamate-gated calcium ion channel activity
+GO:0015344,27,4,siderophore uptake transmembrane transporter activity
+GO:0008508,27,4,bile acid:sodium symporter activity
+GO:0016286,26,8,small conductance calcium-activated potassium channel activity
+GO:0042947,26,4,glucoside transmembrane transporter activity
+GO:0033284,26,4,ATPase-coupled carboxylic acid transmembrane transporter activity
+GO:0005275,26,3,amine transmembrane transporter activity
+GO:0033283,26,3,ATPase-coupled organic acid transmembrane transporter activity
+GO:0004033,26,5,aldo-keto reductase (NADP) activity
+GO:0140581,26,4,P-type monovalent copper transporter activity
+GO:0019841,26,4,retinol binding
+GO:0015227,26,7,acyl carnitine transmembrane transporter activity
+GO:0005464,26,6,UDP-xylose transmembrane transporter activity
+GO:0015098,26,5,molybdate ion transmembrane transporter activity
+GO:0008517,26,4,folic acid transmembrane transporter activity
+GO:0015213,26,6,uridine transmembrane transporter activity
+GO:0015119,25,4,hexose phosphate transmembrane transporter activity
+GO:0005365,25,5,myo-inositol transmembrane transporter activity
+GO:0017081,25,4,chloride channel regulator activity
+GO:0015526,25,5,hexose-phosphate:inorganic phosphate antiporter activity
+GO:0005457,25,6,GDP-fucose transmembrane transporter activity
+GO:0046624,25,3,sphingolipid transporter activity
+GO:0001664,25,4,G protein-coupled receptor binding
+GO:0140272,25,2,exogenous protein binding
+GO:0043621,25,3,protein self-association
+GO:0015631,25,4,tubulin binding
+GO:0005328,25,4,neurotransmitter:sodium symporter activity
+GO:0016595,24,5,glutamate binding
+GO:0061513,24,6,glucose 6-phosphate:inorganic phosphate antiporter activity
+GO:0005220,24,8,"inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"
+GO:0015182,24,4,L-asparagine transmembrane transporter activity
+GO:0005463,24,6,UDP-N-acetylgalactosamine transmembrane transporter activity
+GO:0051393,24,5,alpha-actinin binding
+GO:0031072,24,3,heat shock protein binding
+GO:1902282,24,8,voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
+GO:0000095,24,4,S-adenosyl-L-methionine transmembrane transporter activity
+GO:0015333,24,5,peptide:proton symporter activity
+GO:0030674,24,2,protein-macromolecule adaptor activity
+GO:0034634,23,4,glutathione transmembrane transporter activity
+GO:0016887,23,7,ATP hydrolysis activity
+GO:0047485,23,3,protein N-terminus binding
+GO:0016918,23,4,retinal binding
+GO:0005280,23,7,amino acid:proton symporter activity
+GO:0042562,23,2,hormone binding
+GO:0005314,23,7,high-affinity glutamate transmembrane transporter activity
+GO:0060072,23,8,large conductance calcium-activated potassium channel activity
+GO:0042959,23,4,alkanesulfonate transmembrane transporter activity
+GO:0001618,23,3,virus receptor activity
+GO:0080122,23,5,AMP transmembrane transporter activity
+GO:0015139,23,6,alpha-ketoglutarate transmembrane transporter activity
+GO:0016853,22,2,isomerase activity
+GO:0015225,22,4,biotin transmembrane transporter activity
+GO:0120013,22,3,lipid transfer activity
+GO:0048029,22,3,monosaccharide binding
+GO:0008013,22,3,beta-catenin binding
+GO:0038024,22,1,cargo receptor activity
+GO:1901611,22,4,phosphatidylglycerol binding
+GO:0140677,22,2,molecular function activator activity
+GO:1901612,22,5,cardiolipin binding
+GO:0005260,21,6,intracellularly ATP-gated chloride channel activity
+GO:0015410,21,4,ABC-type manganese transporter activity
+GO:0017075,21,5,syntaxin-1 binding
+GO:0005034,21,2,osmosensor activity
+GO:0005461,21,6,UDP-glucuronic acid transmembrane transporter activity
+GO:0005363,21,6,maltose transmembrane transporter activity
+GO:0099142,21,5,intracellularly ATP-gated ion channel activity
+GO:0042879,21,6,aldonate transmembrane transporter activity
+GO:0005330,20,4,dopamine:sodium symporter activity
+GO:0046623,20,4,sphingolipid floppase activity
+GO:0051724,20,5,NAD transmembrane transporter activity
+GO:0033285,20,5,ATPase-coupled monocarboxylic acid transmembrane transporter activity
+GO:0015228,20,6,coenzyme A transmembrane transporter activity
+GO:0099635,20,9,voltage-gated calcium channel activity involved in positive regulation of presynaptic cytosolic calcium levels
+GO:0015391,19,4,nucleobase:cation symporter activity
+GO:1901480,19,4,oleate transmembrane transporter activity
+GO:0043024,19,4,ribosomal small subunit binding
+GO:0015248,19,3,sterol transporter activity
+GO:0015226,19,4,carnitine transmembrane transporter activity
+GO:0005366,19,6,myo-inositol:proton symporter activity
+GO:0005250,19,8,A-type (transient outward) potassium channel activity
+GO:0015432,19,4,ABC-type bile acid transporter activity
+GO:0005228,19,7,intracellular sodium activated potassium channel activity
+GO:0015647,19,4,peptidoglycan transmembrane transporter activity
+GO:0086006,18,8,voltage-gated sodium channel activity involved in cardiac muscle cell action potential
+GO:0046964,18,4,3'-phosphoadenosine 5'-phosphosulfate transmembrane transporter activity
+GO:0008047,18,3,enzyme activator activity
+GO:0016746,18,3,acyltransferase activity
+GO:0015467,18,8,G-protein activated inward rectifier potassium channel activity
+GO:0086089,18,8,voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization
+GO:0044548,18,3,S100 protein binding
+GO:0140575,18,3,transmembrane monodehydroascorbate reductase activity
+GO:0004222,18,5,metalloendopeptidase activity
+GO:0050897,18,6,cobalt ion binding
+GO:0015146,18,6,pentose transmembrane transporter activity
+GO:0004672,18,3,protein kinase activity
+GO:0090555,18,5,phosphatidylethanolamine flippase activity
+GO:0009977,18,4,proton motive force dependent protein transmembrane transporter activity
+GO:0019871,17,5,sodium channel inhibitor activity
+GO:0008521,17,4,acetyl-CoA transmembrane transporter activity
+GO:0003823,17,2,antigen binding
+GO:0005539,17,3,glycosaminoglycan binding
+GO:0015265,17,5,urea channel activity
+GO:0050998,17,4,nitric-oxide synthase binding
+GO:0005368,17,4,taurine transmembrane transporter activity
+GO:0015578,17,7,mannose transmembrane transporter activity
+GO:0016747,17,4,"acyltransferase activity, transferring groups other than amino-acyl groups"
+GO:0033293,17,5,monocarboxylic acid binding
+GO:0042605,17,3,peptide antigen binding
+GO:0008900,16,5,P-type potassium:proton transporter activity
+GO:0008168,16,4,methyltransferase activity
+GO:0008170,16,5,N-methyltransferase activity
+GO:0017128,16,4,phospholipid scramblase activity
+GO:0008171,16,5,O-methyltransferase activity
+GO:0005354,16,7,galactose transmembrane transporter activity
+GO:0090729,16,1,toxin activity
+GO:0061797,16,6,pH-gated chloride channel activity
+GO:0001409,16,6,guanine nucleotide transmembrane transporter activity
+GO:0005504,16,3,fatty acid binding
+GO:0017124,16,4,SH3 domain binding
+GO:0005415,16,5,nucleoside:sodium symporter activity
+GO:0043565,16,5,sequence-specific DNA binding
+GO:1901375,16,3,acetate ester transmembrane transporter activity
+GO:0043176,16,2,amine binding
+GO:0005234,16,8,extracellularly glutamate-gated ion channel activity
+GO:0008757,16,5,S-adenosylmethionine-dependent methyltransferase activity
+GO:0008174,16,5,mRNA methyltransferase activity
+GO:0099038,16,5,ceramide floppase activity
+GO:0016741,16,3,"transferase activity, transferring one-carbon groups"
+GO:0008173,16,4,RNA methyltransferase activity
+GO:0004483,16,6,mRNA (nucleoside-2'-O-)-methyltransferase activity
+GO:0099507,16,6,ligand-gated ion channel activity involved in regulation of presynaptic membrane potential
+GO:0051378,16,3,serotonin binding
+GO:0015218,16,5,pyrimidine nucleotide transmembrane transporter activity
+GO:0004482,16,6,mRNA (guanine-N7-)-methyltransferase activity
+GO:0015099,16,7,nickel cation transmembrane transporter activity
+GO:0005277,16,4,acetylcholine transmembrane transporter activity
+GO:0004674,16,4,protein serine/threonine kinase activity
+GO:0008564,16,4,protein-exporting ATPase activity
+GO:0016409,15,5,palmitoyltransferase activity
+GO:0050997,15,2,quaternary ammonium group binding
+GO:0033229,15,5,cysteine transmembrane transporter activity
+GO:0071917,15,4,triose-phosphate transmembrane transporter activity
+GO:0030346,15,6,protein phosphatase 2B binding
+GO:0035255,15,5,ionotropic glutamate receptor binding
+GO:1990760,15,3,osmolarity-sensing cation channel activity
+GO:0042943,15,6,D-amino acid transmembrane transporter activity
+GO:0015151,15,5,alpha-glucoside transmembrane transporter activity
+GO:0120015,15,4,sterol transfer activity
+GO:0120020,15,5,cholesterol transfer activity
+GO:0015499,15,6,formate transmembrane transporter activity
+GO:0008281,15,4,sulfonylurea receptor activity
+GO:0051721,15,6,protein phosphatase 2A binding
+GO:0015433,15,5,ABC-type peptide antigen transporter activity
+GO:0005536,15,4,glucose binding
+GO:0015489,15,4,putrescine transmembrane transporter activity
+GO:0001965,15,3,G-protein alpha-subunit binding
+GO:0048487,15,5,beta-tubulin binding
+GO:0046977,15,3,TAP binding
+GO:0005308,15,4,creatine transmembrane transporter activity
+GO:0015462,15,4,ABC-type protein transporter activity
+GO:0005295,15,6,neutral amino acid:sodium symporter activity
+GO:0099508,15,5,voltage-gated ion channel activity involved in regulation of presynaptic membrane potential
+GO:0019706,14,4,protein-cysteine S-palmitoyltransferase activity
+GO:0016417,14,5,S-acyltransferase activity
+GO:0097603,14,5,temperature-gated ion channel activity
+GO:0140297,14,4,DNA-binding transcription factor binding
+GO:0015196,14,5,L-tryptophan transmembrane transporter activity
+GO:0035374,14,3,chondroitin sulfate binding
+GO:0035379,14,3,carbon dioxide transmembrane transporter activity
+GO:0017153,14,5,sodium:dicarboxylate symporter activity
+GO:0046980,14,3,tapasin binding
+GO:0008520,14,5,L-ascorbate:sodium symporter activity
+GO:0031210,14,3,phosphatidylcholine binding
+GO:0008134,14,3,transcription factor binding
+GO:1905056,14,5,P-type calcium transporter activity involved in regulation of presynaptic cytosolic calcium ion concentration
+GO:0019707,14,3,protein-cysteine S-acyltransferase activity
+GO:0140110,14,1,transcription regulator activity
+GO:0080025,14,4,"phosphatidylinositol-3,5-bisphosphate binding"
+GO:0086007,14,7,voltage-gated calcium channel activity involved in cardiac muscle cell action potential
+GO:0005298,14,6,proline:sodium symporter activity
+GO:0097682,14,7,"intracellular phosphatidylinositol-3,5-bisphosphate-sensitive cation channel activity"
+GO:0044736,14,8,acid-sensing ion channel activity
+GO:0015105,14,5,arsenite transmembrane transporter activity
+GO:0042288,14,5,MHC class I protein binding
+GO:0050699,13,4,WW domain binding
+GO:0015439,13,4,ABC-type heme transporter activity
+GO:0070851,13,4,growth factor receptor binding
+GO:0015636,13,4,short-chain fatty acid transmembrane transporter activity
+GO:0046978,13,4,TAP1 binding
+GO:0005427,13,6,proton-dependent oligopeptide secondary active transmembrane transporter activity
+GO:0086075,13,8,gap junction channel activity involved in cardiac conduction electrical coupling
+GO:0042578,13,4,phosphoric ester hydrolase activity
+GO:0015111,13,5,iodide transmembrane transporter activity
+GO:0097001,13,3,ceramide binding
+GO:0015603,13,3,iron chelate transmembrane transporter activity
+GO:0016151,13,6,nickel cation binding
+GO:0015322,13,5,secondary active oligopeptide transmembrane transporter activity
+GO:0005334,13,4,norepinephrine:sodium symporter activity
+GO:0046625,13,3,sphingolipid binding
+GO:0048039,13,3,ubiquinone binding
+GO:0015229,13,4,L-ascorbic acid transmembrane transporter activity
+GO:0097718,13,4,disordered domain specific binding
+GO:0106310,13,4,protein serine kinase activity
+GO:0046790,13,2,virion binding
+GO:0009881,13,3,photoreceptor activity
+GO:0019855,13,5,calcium channel inhibitor activity
+GO:0051219,12,3,phosphoprotein binding
+GO:0015199,12,4,amino-acid betaine transmembrane transporter activity
+GO:0008551,12,4,P-type cadmium transporter activity
+GO:0030504,12,5,inorganic diphosphate transmembrane transporter activity
+GO:0070492,12,3,oligosaccharide binding
+GO:0051032,12,4,nucleic acid transmembrane transporter activity
+GO:0019869,12,5,chloride channel inhibitor activity
+GO:0015138,12,6,fumarate transmembrane transporter activity
+GO:0051434,12,5,BH3 domain binding
+GO:0036041,12,4,long-chain fatty acid binding
+GO:0071714,12,3,icosanoid transmembrane transporter activity
+GO:0051400,12,4,BH domain binding
+GO:0043211,12,4,ABC-type carbohydrate transporter activity
+GO:0099104,12,4,potassium channel activator activity
+GO:0001653,12,3,peptide receptor activity
+GO:0030695,12,4,GTPase regulator activity
+GO:0015120,12,7,phosphoglycerate transmembrane transporter activity
+GO:0030228,12,2,lipoprotein particle receptor activity
+GO:0060589,12,3,nucleoside-triphosphatase regulator activity
+GO:1905030,12,5,voltage-gated ion channel activity involved in regulation of postsynaptic membrane potential
+GO:0030145,12,6,manganese ion binding
+GO:0016791,12,5,phosphatase activity
+GO:0008528,12,4,G protein-coupled peptide receptor activity
+GO:0070513,12,4,death domain binding
+GO:0008188,12,5,neuropeptide receptor activity
+GO:0090556,12,4,phosphatidylserine floppase activity
+GO:0015113,12,5,nitrite transmembrane transporter activity
+GO:0004518,12,4,nuclease activity
+GO:0051033,12,5,RNA transmembrane transporter activity
+GO:0099103,12,3,channel activator activity
+GO:0015210,12,5,uracil transmembrane transporter activity
+GO:0090422,11,4,thiamine pyrophosphate transmembrane transporter activity
+GO:0015191,11,6,L-methionine transmembrane transporter activity
+GO:0086039,11,5,P-type calcium transporter activity involved in regulation of cardiac muscle cell membrane potential
+GO:0046583,11,4,cation efflux transmembrane transporter activity
+GO:0043865,11,5,methionine transmembrane transporter activity
+GO:0019834,11,6,phospholipase A2 inhibitor activity
+GO:0004859,11,5,phospholipase inhibitor activity
+GO:0008017,11,5,microtubule binding
+GO:0016464,11,4,chloroplast protein-transporting ATPase activity
+GO:0003690,11,5,double-stranded DNA binding
+GO:0061134,11,3,peptidase regulator activity
+GO:0019955,11,3,cytokine binding
+GO:0052880,11,4,"oxidoreductase activity, acting on diphenols and related substances as donors, with copper protein as acceptor"
+GO:0086077,11,9,gap junction channel activity involved in AV node cell-bundle of His cell electrical coupling
+GO:0005499,11,4,vitamin D binding
+GO:0047676,11,4,arachidonate-CoA ligase activity
+GO:0015574,11,6,trehalose transmembrane transporter activity
+GO:0017022,11,4,myosin binding
+GO:0019838,11,3,growth factor binding
+GO:0015212,11,6,cytidine transmembrane transporter activity
+GO:0045158,11,4,"electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity"
+GO:0005212,11,2,structural constituent of eye lens
+GO:1990837,11,6,sequence-specific double-stranded DNA binding
+GO:0048030,11,4,disaccharide binding
+GO:0055102,11,4,lipase inhibitor activity
+GO:0009496,11,5,plastoquinol--plastocyanin reductase activity
+GO:0051978,10,4,lysophospholipid:sodium symporter activity
+GO:0050661,10,4,NADP binding
+GO:0005369,10,5,taurine:sodium symporter activity
+GO:0046870,10,6,cadmium ion binding
+GO:0004519,10,5,endonuclease activity
+GO:0099583,10,5,neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration
+GO:0009486,10,4,cytochrome bo3 ubiquinol oxidase activity
+GO:0005484,10,3,SNAP receptor activity
+GO:0016682,10,4,"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor"
+GO:1905060,10,8,calcium:cation antiporter activity involved in regulation of postsynaptic cytosolic calcium ion concentration
+GO:0071813,10,4,lipoprotein particle binding
+GO:0019825,10,3,oxygen binding
+GO:0015389,10,5,pyrimidine- and adenine-specific:sodium symporter activity
+GO:0001671,10,3,ATPase activator activity
+GO:0015643,10,2,toxic substance binding
+GO:0005096,10,4,GTPase activator activity
+GO:0016289,10,5,CoA hydrolase activity
+GO:0016463,10,4,P-type zinc transporter activity
+GO:0005041,10,3,low-density lipoprotein particle receptor activity
+GO:0042945,10,6,D-serine transmembrane transporter activity
+GO:0015152,10,3,glucose-6-phosphate transmembrane transporter activity
+GO:0001067,10,4,transcription regulatory region nucleic acid binding
+GO:0042907,10,5,xanthine transmembrane transporter activity
+GO:0045182,10,1,translation regulator activity
+GO:0044610,10,4,FMN transmembrane transporter activity
+GO:0022877,10,5,protein-N(PI)-phosphohistidine-fructose phosphotransferase system transporter activity
+GO:0140135,10,6,mechanosensitive cation channel activity
+GO:0000976,10,5,transcription cis-regulatory region binding
+GO:0047617,10,6,acyl-CoA hydrolase activity
+GO:0051371,10,6,muscle alpha-actinin binding
+GO:0019207,10,3,kinase regulator activity
+GO:0071814,10,3,protein-lipid complex binding
+GO:0015126,10,4,canalicular bile acid transmembrane transporter activity
+GO:0008035,10,5,high-density lipoprotein particle binding
+GO:0016790,10,4,thiolester hydrolase activity
+GO:0051980,10,4,iron-nicotianamine transmembrane transporter activity
+GO:0005178,10,3,integrin binding
+GO:0015367,10,7,oxoglutarate:malate antiporter activity
+GO:0051879,10,4,Hsp90 protein binding
+GO:0090079,10,2,"translation regulator activity, nucleic acid binding"
+GO:0050780,10,5,dopamine receptor binding
+GO:0015505,9,5,uracil:cation symporter activity
+GO:0050660,9,4,flavin adenine dinucleotide binding
+GO:0035325,9,4,Toll-like receptor binding
+GO:0022883,9,5,zinc efflux transmembrane transporter activity
+GO:0008523,9,4,sodium-dependent multivitamin transmembrane transporter activity
+GO:0030184,9,4,nitric oxide transmembrane transporter activity
+GO:0015648,9,5,lipid-linked peptidoglycan transporter activity
+GO:0015420,9,4,ABC-type vitamin B12 transporter activity
+GO:0016757,9,3,glycosyltransferase activity
+GO:0046979,9,4,TAP2 binding
+GO:0016209,9,1,antioxidant activity
+GO:0038047,9,6,morphine receptor activity
+GO:0015495,9,6,gamma-aminobutyric acid:proton symporter activity
+GO:0089721,9,4,phosphoenolpyruvate transmembrane transporter activity
+GO:1901982,9,5,maltose binding
+GO:1990239,9,3,steroid hormone binding
+GO:0015132,9,4,prostaglandin transmembrane transporter activity
+GO:0051018,9,3,protein kinase A binding
+GO:0017046,9,3,peptide hormone binding
+GO:0019826,9,2,oxygen sensor activity
+GO:0061629,9,5,RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0015513,9,5,high-affinity secondary active nitrite transmembrane transporter activity
+GO:0015607,9,4,ABC-type fatty-acyl-CoA transporter activity
+GO:0004979,9,6,beta-endorphin receptor activity
+GO:0140613,9,4,P-type manganese transporter activity
+GO:0050811,9,4,GABA receptor binding
+GO:0042923,9,4,neuropeptide binding
+GO:0015350,9,4,methotrexate transmembrane transporter activity
+GO:0051082,9,3,unfolded protein binding
+GO:0015123,9,6,acetate transmembrane transporter activity
+GO:0004985,9,5,G protein-coupled opioid receptor activity
+GO:0022852,9,6,glycine-gated chloride ion channel activity
+GO:0140104,9,1,molecular carrier activity
+GO:0004977,9,5,melanocortin receptor activity
+GO:0005287,9,7,high-affinity basic amino acid transmembrane transporter activity
+GO:0005542,9,3,folic acid binding
+GO:0022850,9,6,serotonin-gated cation-selective channel activity
+GO:0003682,9,2,chromatin binding
+GO:0034185,8,3,apolipoprotein binding
+GO:0015233,8,4,pantothenate transmembrane transporter activity
+GO:0003712,8,2,transcription coregulator activity
+GO:0005371,8,5,tricarboxylate secondary active transmembrane transporter activity
+GO:0030276,8,3,clathrin binding
+GO:0034041,8,4,ABC-type sterol transporter activity
+GO:0046875,8,4,ephrin receptor binding
+GO:0015188,8,5,L-isoleucine transmembrane transporter activity
+GO:0061135,8,4,endopeptidase regulator activity
+GO:0015169,8,4,glycerol-3-phosphate transmembrane transporter activity
+GO:0008503,8,4,benzodiazepine receptor activity
+GO:0031681,8,3,G-protein beta-subunit binding
+GO:0005458,8,6,GDP-mannose transmembrane transporter activity
+GO:0015421,8,5,ABC-type oligopeptide transporter activity
+GO:0015606,8,4,spermidine transmembrane transporter activity
+GO:0008135,8,3,"translation factor activity, RNA binding"
+GO:0086056,8,8,voltage-gated calcium channel activity involved in AV node cell action potential
+GO:1990782,8,6,protein tyrosine kinase binding
+GO:0034188,8,3,apolipoprotein A-I receptor activity
+GO:0015094,8,4,lead ion transmembrane transporter activity
+GO:0043014,8,5,alpha-tubulin binding
+GO:0030226,8,2,apolipoprotein receptor activity
+GO:0030899,8,2,calcium-dependent ATPase activity
+GO:0005080,8,6,protein kinase C binding
+GO:0019182,8,7,histamine-gated chloride channel activity
+GO:0015473,8,7,fimbrial usher porin activity
+GO:0086062,7,9,voltage-gated sodium channel activity involved in Purkinje myocyte action potential
+GO:0030492,7,3,hemoglobin binding
+GO:0005302,7,5,L-tyrosine transmembrane transporter activity
+GO:0016922,7,6,nuclear receptor binding
+GO:0005307,7,7,choline:sodium symporter activity
+GO:0031005,7,4,filamin binding
+GO:0030546,7,3,signaling receptor activator activity
+GO:0043532,7,3,angiostatin binding
+GO:0047747,7,5,cholate-CoA ligase activity
+GO:0034237,7,4,protein kinase A regulatory subunit binding
+GO:0140567,7,2,transmembrane protein dislocase activity
+GO:0042500,7,6,"aspartic endopeptidase activity, intramembrane cleaving"
+GO:0003713,7,3,transcription coactivator activity
+GO:0070001,7,4,aspartic-type peptidase activity
+GO:0015207,7,5,adenine transmembrane transporter activity
+GO:0016684,7,3,"oxidoreductase activity, acting on peroxide as acceptor"
+GO:0050664,7,4,"oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor"
+GO:0015128,7,7,gluconate transmembrane transporter activity
+GO:0015419,7,4,ABC-type sulfate transporter activity
+GO:0008227,7,5,G protein-coupled amine receptor activity
+GO:0034639,7,4,L-amino acid efflux transmembrane transporter activity
+GO:0005274,7,4,allantoin:proton symporter activity
+GO:0086059,7,8,voltage-gated calcium channel activity involved SA node cell action potential
+GO:0097604,7,6,temperature-gated cation channel activity
+GO:0030171,7,6,voltage-gated proton channel activity
+GO:0008428,7,5,ribonuclease inhibitor activity
+GO:0015417,7,4,ABC-type polyamine transporter activity
+GO:0016175,7,5,superoxide-generating NAD(P)H oxidase activity
+GO:0046715,7,5,active borate transmembrane transporter activity
+GO:0086038,7,8,calcium:sodium antiporter activity involved in regulation of cardiac muscle cell membrane potential
+GO:0042301,7,4,phosphate ion binding
+GO:0050840,7,2,extracellular matrix binding
+GO:0004993,7,5,G protein-coupled serotonin receptor activity
+GO:1903425,7,5,fluoride transmembrane transporter activity
+GO:0140721,7,4,nuclease inhibitor activity
+GO:0042931,7,4,enterobactin transmembrane transporter activity
+GO:0060698,7,6,endoribonuclease inhibitor activity
+GO:0070402,7,4,NADPH binding
+GO:0099589,7,4,serotonin receptor activity
+GO:0070273,7,6,phosphatidylinositol-4-phosphate binding
+GO:0080054,7,6,low-affinity nitrate transmembrane transporter activity
+GO:1902444,7,3,riboflavin binding
+GO:0004190,7,5,aspartic-type endopeptidase activity
+GO:0015319,7,5,sodium:inorganic phosphate symporter activity
+GO:0016829,7,2,lyase activity
+GO:0004601,7,2,peroxidase activity
+GO:0003924,7,7,GTPase activity
+GO:0030545,7,2,signaling receptor regulator activity
+GO:0090434,7,4,oleoyl-CoA ligase activity
+GO:0015195,7,5,L-threonine transmembrane transporter activity
+GO:0034236,7,4,protein kinase A catalytic subunit binding
+GO:0015208,6,5,guanine transmembrane transporter activity
+GO:0015121,6,5,phosphoenolpyruvate:phosphate antiporter activity
+GO:0030235,6,3,nitric-oxide synthase regulator activity
+GO:0043210,6,4,alkanesulfonate binding
+GO:0008507,6,6,sodium:iodide symporter activity
+GO:0043262,6,7,adenosine-diphosphatase activity
+GO:0015127,6,6,bilirubin transmembrane transporter activity
+GO:0099580,6,6,ion antiporter activity involved in regulation of postsynaptic membrane potential
+GO:0140481,6,4,ABC-type iron-sulfur cluster transporter activity
+GO:0010328,6,4,auxin influx transmembrane transporter activity
+GO:0000981,6,3,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+GO:0070300,6,4,phosphatidic acid binding
+GO:0001406,6,4,glycerophosphodiester transmembrane transporter activity
+GO:0009679,6,6,hexose:proton symporter activity
+GO:1901683,6,5,arsenate ion transmembrane transporter activity
+GO:0015424,6,4,ABC-type amino acid transporter activity
+GO:0030169,6,5,low-density lipoprotein particle binding
+GO:0015620,6,4,ferric-enterobactin transmembrane transporter activity
+GO:0005309,6,5,creatine:sodium symporter activity
+GO:0005456,6,6,CMP-N-acetylneuraminate transmembrane transporter activity
+GO:0001640,6,6,adenylate cyclase inhibiting G protein-coupled glutamate receptor activity
+GO:0070089,6,7,chloride-activated potassium channel activity
+GO:0097079,6,5,selenite:proton symporter activity
+GO:0070061,6,4,fructose binding
+GO:0005044,6,2,scavenger receptor activity
+GO:0001530,6,3,lipopolysaccharide binding
+GO:0031749,6,6,D2 dopamine receptor binding
+GO:0015422,6,5,ABC-type oligosaccharide transporter activity
+GO:0015159,6,4,polysaccharide transmembrane transporter activity
+GO:0000297,6,4,spermine transmembrane transporter activity
+GO:0015192,6,5,L-phenylalanine transmembrane transporter activity
+GO:0003700,6,2,DNA-binding transcription factor activity
+GO:0030374,6,4,nuclear receptor coactivator activity
+GO:0042813,6,4,Wnt-activated receptor activity
+GO:0022894,6,8,Intermediate conductance calcium-activated potassium channel activity
+GO:0004602,6,3,glutathione peroxidase activity
+GO:0035612,6,3,AP-2 adaptor complex binding
+GO:0008746,6,5,NAD(P)+ transhydrogenase activity
+GO:0098988,6,5,G protein-coupled glutamate receptor activity
+GO:0004322,6,5,ferroxidase activity
+GO:0005126,6,4,cytokine receptor binding
+GO:0019887,6,4,protein kinase regulator activity
+GO:0015150,6,7,fucose transmembrane transporter activity
+GO:0002039,6,3,p53 binding
+GO:0070678,6,3,preprotein binding
+GO:0015026,6,3,coreceptor activity
+GO:0016758,6,4,hexosyltransferase activity
+GO:0023029,6,5,MHC class Ib protein binding
+GO:0015382,6,6,sodium:sulfate symporter activity
+GO:0038187,6,3,pattern recognition receptor activity
+GO:0017110,6,6,nucleoside-diphosphatase activity
+GO:0036487,6,4,nitric-oxide synthase inhibitor activity
+GO:0015423,6,6,ABC-type maltose transporter activity
+GO:0005503,6,5,all-trans retinal binding
+GO:0030544,6,4,Hsp70 protein binding
+GO:0008955,6,5,peptidoglycan glycosyltransferase activity
+GO:0019210,6,4,kinase inhibitor activity
+GO:0016652,6,4,"oxidoreductase activity, acting on NAD(P)H, NAD(P) as acceptor"
+GO:0005364,6,6,maltose:proton symporter activity
+GO:0019894,6,4,kinesin binding
+GO:0071253,6,3,connexin binding
+GO:0030977,6,3,taurine binding
+GO:0015275,6,7,"stretch-activated, cation-selective, calcium channel activity"
+GO:0016724,6,4,"oxidoreductase activity, acting on metal ions, oxygen as acceptor"
+GO:0150025,6,3,oxidised low-density lipoprotein particle receptor activity
+GO:0070892,6,4,lipoteichoic acid immune receptor activity
+GO:0015375,5,6,glycine:sodium symporter activity
+GO:0015573,5,5,beta-glucoside transmembrane transporter activity
+GO:0086090,5,8,voltage-gated potassium channel activity involved in SA node cell action potential repolarization
+GO:0005289,5,6,high-affinity L-arginine transmembrane transporter activity
+GO:0000293,5,4,ferric-chelate reductase activity
+GO:0000978,5,7,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0005502,5,5,11-cis retinal binding
+GO:0015660,5,4,formate efflux transmembrane transporter activity
+GO:0003727,5,5,single-stranded RNA binding
+GO:1901235,5,5,(R)-carnitine transmembrane transporter activity
+GO:0022885,5,4,bacteriocin transmembrane transporter activity
+GO:0042900,5,7,arabinose transmembrane transporter activity
+GO:0000977,5,6,RNA polymerase II transcription regulatory region sequence-specific DNA binding
+GO:0140360,5,5,cyclic-GMP-AMP transmembrane transporter activity
+GO:0005109,5,5,frizzled binding
+GO:0016667,5,3,"oxidoreductase activity, acting on a sulfur group of donors"
+GO:0062124,5,3,4-hydroxybutyrate receptor activity
+GO:0004427,5,6,inorganic diphosphatase activity
+GO:0031369,5,3,translation initiation factor binding
+GO:0017134,5,4,fibroblast growth factor binding
+GO:0086087,5,8,voltage-gated potassium channel activity involved in bundle of His cell action potential repolarization
+GO:0000987,5,6,cis-regulatory region sequence-specific DNA binding
+GO:0034290,5,5,holin activity
+GO:0004867,5,6,serine-type endopeptidase inhibitor activity
+GO:0030414,5,4,peptidase inhibitor activity
+GO:0140348,5,5,lysophosphatidylcholine flippase activity
+GO:0003746,5,4,translation elongation factor activity
+GO:0106138,5,3,Sec61 translocon complex binding
+GO:0043398,5,4,HLH domain binding
+GO:0004866,5,5,endopeptidase inhibitor activity
+GO:0015362,5,6,high-affinity sodium:dicarboxylate symporter activity
+GO:0004176,5,2,ATP-dependent peptidase activity
+GO:0050431,5,4,transforming growth factor beta binding
+GO:0015594,5,5,ABC-type putrescine transporter activity
+GO:0008068,5,7,extracellularly glutamate-gated chloride channel activity
+GO:0042950,5,5,salicin transmembrane transporter activity
+GO:0031992,5,2,energy transducer activity
+GO:0005292,5,6,high-affinity lysine transmembrane transporter activity
+GO:0003957,5,6,NAD(P)+ transhydrogenase (B-specific) activity
+GO:0005316,5,8,high-affinity inorganic phosphate:sodium symporter activity
+GO:0005367,4,6,myo-inositol:sodium symporter activity
+GO:0090589,4,5,protein-phosphocysteine-trehalose phosphotransferase system transporter activity
+GO:0031490,4,3,chromatin DNA binding
+GO:0140347,4,5,N-retinylidene-phosphatidylethanolamine flippase activity
+GO:0090582,4,5,protein-phosphocysteine-D-fructose-phosphotransferase system transporter activity
+GO:0043120,4,4,tumor necrosis factor binding
+GO:0016531,4,3,copper chaperone activity
+GO:1990430,4,3,extracellular matrix protein binding
+GO:0031409,4,2,pigment binding
+GO:0015341,4,5,zinc efflux active transmembrane transporter activity
+GO:0032557,4,4,pyrimidine ribonucleotide binding
+GO:0043250,4,6,sodium-dependent organic anion transmembrane transporter activity
+GO:0050197,4,5,phytanate-CoA ligase activity
+GO:0071936,4,4,coreceptor activity involved in Wnt signaling pathway
+GO:0031751,4,6,D4 dopamine receptor binding
+GO:0047631,4,6,ADP-ribose diphosphatase activity
+GO:0030548,4,4,acetylcholine receptor regulator activity
+GO:0015483,4,4,long-chain fatty acid transporting porin activity
+GO:0034291,4,6,canonical holin activity
+GO:0008179,4,4,adenylate cyclase binding
+GO:0120014,4,4,phospholipid transfer activity
+GO:0008238,4,4,exopeptidase activity
+GO:0015415,4,4,ATPase-coupled phosphate ion transmembrane transporter activity
+GO:0030295,4,5,protein kinase activator activity
+GO:0015366,4,7,malate:proton symporter activity
+GO:0019705,4,4,protein-cysteine S-myristoyltransferase activity
+GO:0016530,4,2,metallochaperone activity
+GO:0019992,4,3,diacylglycerol binding
+GO:0005291,4,5,high-affinity L-histidine transmembrane transporter activity
+GO:0042912,4,5,colicin transmembrane transporter activity
+GO:0015565,4,5,threonine efflux transmembrane transporter activity
+GO:0015446,4,3,ATPase-coupled arsenite transmembrane transporter activity
+GO:0000268,4,5,peroxisome targeting sequence binding
+GO:0019209,4,4,kinase activator activity
+GO:0062062,4,3,oligosaccharyltransferase complex binding
+GO:0042169,4,4,SH2 domain binding
+GO:0004713,4,4,protein tyrosine kinase activity
+GO:0062156,4,5,mitochondrial ATP-gated potassium channel activity
+GO:0019103,4,4,pyrimidine nucleotide binding
+GO:0015481,4,7,maltose transporting porin activity
+GO:0010486,4,6,manganese:proton antiporter activity
+GO:0015407,4,5,ABC-type monosaccharide transporter activity
+GO:0070251,4,5,pristanate-CoA ligase activity
+GO:0061768,4,7,magnesium:sodium antiporter activity
+GO:0097472,4,4,cyclin-dependent protein kinase activity
+GO:0042958,4,5,maltodextrin transmembrane transporter activity
+GO:0004540,4,4,ribonuclease activity
+GO:0019811,4,3,cocaine binding
+GO:0030549,4,4,acetylcholine receptor activator activity
+GO:0001761,4,6,beta-alanine transmembrane transporter activity
+GO:0072570,4,3,ADP-D-ribose binding
+GO:0033265,4,4,choline binding
+GO:0004721,4,3,phosphoprotein phosphatase activity
+GO:0008513,4,5,secondary active organic cation transmembrane transporter activity
+GO:0032767,4,3,copper-dependent protein binding
+GO:0005176,4,4,ErbB-2 class receptor binding
+GO:0050321,4,4,tau-protein kinase activity
+GO:0019865,4,3,immunoglobulin binding
+GO:1905059,4,5,P-type calcium transporter activity involved in regulation of postsynaptic cytosolic calcium ion concentration
+GO:0140107,4,7,high-affinity potassium ion transmembrane transporter activity
+GO:0010348,4,6,lithium:proton antiporter activity
+GO:0015091,4,8,ferric iron transmembrane transporter activity
+GO:0001968,4,3,fibronectin binding
+GO:0003697,4,5,single-stranded DNA binding
+GO:0140311,4,2,protein sequestering activity
+GO:0071889,4,3,14-3-3 protein binding
+GO:0072571,4,4,mono-ADP-D-ribose binding
+GO:0016849,4,3,phosphorus-oxygen lyase activity
+GO:0005469,4,7,succinate:fumarate antiporter activity
+GO:0008157,4,6,protein phosphatase 1 binding
+GO:0002135,4,4,CTP binding
+GO:1903136,4,7,cuprous ion binding
+GO:0086078,4,9,gap junction channel activity involved in bundle of His cell-Purkinje myocyte electrical coupling
+GO:0140313,4,1,molecular sequestering activity
+GO:0004693,4,5,cyclin-dependent protein serine/threonine kinase activity
+GO:0099602,4,3,neurotransmitter receptor regulator activity
+GO:0005052,4,6,peroxisome matrix targeting signal-1 binding
+GO:0035240,4,4,dopamine binding
+GO:0004725,4,4,protein tyrosine phosphatase activity
+GO:0019107,4,5,myristoyltransferase activity
+GO:0043495,4,3,protein-membrane adaptor activity
+GO:0044604,4,5,ABC-type phytochelatin transporter activity
+GO:0031690,4,5,adrenergic receptor binding
+GO:0034186,4,4,apolipoprotein A-I binding
+GO:0071913,4,6,citrate secondary active transmembrane transporter activity
+GO:0019003,4,4,GDP binding
+GO:0015412,4,4,ABC-type molybdate transporter activity
+GO:0017147,4,3,Wnt-protein binding
+GO:0055131,4,4,C3HC4-type RING finger domain binding
+GO:0140439,4,4,protein-cysteine S-stearoyltransferase activity
+GO:0016661,4,3,"oxidoreductase activity, acting on other nitrogenous compounds as donors"
+GO:0140412,4,6,zinc:bicarbonate symporter activity
+GO:0015552,4,5,propionate transmembrane transporter activity
+GO:0010461,4,5,light-activated ion channel activity
+GO:0090587,4,5,protein-phosphocysteine-glucosamine phosphotransferase system transporter activity
+GO:0031750,4,6,D3 dopamine receptor binding
+GO:0031698,4,6,beta-2 adrenergic receptor binding
+GO:0086076,4,9,gap junction channel activity involved in atrial cardiac muscle cell-AV node cell electrical coupling
+GO:1901338,4,3,catecholamine binding
+GO:0004949,4,5,cannabinoid receptor activity
+GO:0003684,4,5,damaged DNA binding
+GO:0080139,4,4,borate efflux transmembrane transporter activity
+GO:0034257,4,5,nicotinamide riboside transmembrane transporter activity
+GO:0015200,4,4,methylammonium transmembrane transporter activity
+GO:0043125,4,4,ErbB-3 class receptor binding
+GO:0030247,4,3,polysaccharide binding
+GO:0005356,4,7,glucose:proton symporter activity
+GO:0120019,3,5,phosphatidylcholine transfer activity
+GO:0086060,3,9,voltage-gated sodium channel activity involved in AV node cell action potential
+GO:0086061,3,9,voltage-gated sodium channel activity involved in bundle of His cell action potential
+GO:0035594,3,4,ganglioside binding
+GO:0017089,3,4,glycolipid transfer activity
+GO:0033592,3,5,RNA strand annealing activity
+GO:0043028,3,3,cysteine-type endopeptidase regulator activity involved in apoptotic process
+GO:0017098,3,4,sulfonylurea receptor binding
+GO:0019956,3,4,chemokine binding
+GO:0043924,3,3,suramin binding
+GO:0070891,3,3,lipoteichoic acid binding
+GO:0090564,3,5,protein-phosphocysteine-glucose phosphotransferase system transporter activity
+GO:0070053,3,3,thrombospondin receptor activity
+GO:0015148,3,7,D-xylose transmembrane transporter activity
+GO:0043208,3,4,glycosphingolipid binding
+GO:0052689,3,4,carboxylic ester hydrolase activity
+GO:0015390,3,7,purine-specific nucleoside:sodium symporter activity
+GO:0016668,3,4,"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"
+GO:0004148,3,5,dihydrolipoyl dehydrogenase activity
+GO:1903089,3,4,5-amino-1-ribofuranosylimidazole-4-carboxamide transmembrane transporter activity
+GO:0043548,3,3,phosphatidylinositol 3-kinase binding
+GO:0090585,3,5,protein-phosphocysteine-L-ascorbate-phosphotransferase system transporter activity
+GO:0015514,3,4,nitrite efflux transmembrane transporter activity
+GO:0015398,3,5,high-affinity secondary active ammonium transmembrane transporter activity
+GO:0009381,3,6,excinuclease ABC activity
+GO:0015147,3,8,L-arabinose transmembrane transporter activity
+GO:0086041,3,7,voltage-gated potassium channel activity involved in SA node cell action potential depolarization
+GO:0016532,3,4,superoxide dismutase copper chaperone activity
+GO:0140345,3,5,phosphatidylcholine flippase activity
+GO:0140597,3,2,protein carrier chaperone
+GO:0051861,3,3,glycolipid binding
+GO:0016504,3,4,peptidase activator activity
+GO:0005523,3,4,tropomyosin binding
+GO:0090416,3,6,nicotinate transmembrane transporter activity
+GO:0016505,3,5,peptidase activator activity involved in apoptotic process
+GO:0005294,3,5,neutral L-amino acid secondary active transmembrane transporter activity
+GO:0009670,3,5,triose-phosphate:phosphate antiporter activity
+GO:0070008,3,5,serine-type exopeptidase activity
+GO:0140666,3,4,annealing activity
+GO:0001217,3,3,DNA-binding transcription repressor activity
+GO:0022870,3,5,protein-N(PI)-phosphohistidine-mannose phosphotransferase system transporter activity
+GO:1902271,3,5,D3 vitamins binding
+GO:0098782,3,7,mechanosensitived potassium channel activity
+GO:0015506,3,5,nucleoside:proton symporter activity
+GO:0033897,3,4,ribonuclease T2 activity
+GO:0061507,3,4,"2',3'-cyclic GMP-AMP binding"
+GO:0099520,3,6,ion antiporter activity involved in regulation of presynaptic membrane potential
+GO:0098695,3,9,"inositol 1,4,5-trisphosphate receptor activity involved in regulation of postsynaptic cytosolic calcium levels"
+GO:0034590,3,4,L-hydroxyproline transmembrane transporter activity
+GO:0032977,3,3,membrane insertase activity
+GO:0019199,3,4,transmembrane receptor protein kinase activity
+GO:0031775,3,5,lutropin-choriogonadotropic hormone receptor binding
+GO:0043879,3,5,glycolate transmembrane transporter activity
+GO:0003735,3,2,structural constituent of ribosome
+GO:0015591,3,7,D-ribose transmembrane transporter activity
+GO:1901680,3,5,sulfur-containing amino acid secondary active transmembrane transporter activity
+GO:0008494,3,3,translation activator activity
+GO:0001607,3,6,neuromedin U receptor activity
+GO:0008656,3,4,cysteine-type endopeptidase activator activity involved in apoptotic process
+GO:0004536,3,4,deoxyribonuclease activity
+GO:0001228,3,4,"DNA-binding transcription activator activity, RNA polymerase II-specific"
+GO:0000006,3,8,high-affinity zinc transmembrane transporter activity
+GO:0004714,3,5,transmembrane receptor protein tyrosine kinase activity
+GO:1900750,3,4,oligopeptide binding
+GO:0035650,3,3,AP-1 adaptor complex binding
+GO:0005158,3,3,insulin receptor binding
+GO:0031404,3,4,chloride ion binding
+GO:0140097,3,3,"catalytic activity, acting on DNA"
+GO:0140010,3,6,D-aspartate transmembrane transporter activity
+GO:0043533,3,4,"inositol 1,3,4,5 tetrakisphosphate binding"
+GO:0016662,3,4,"oxidoreductase activity, acting on other nitrogenous compounds as donors, cytochrome as acceptor"
+GO:0044730,3,3,bone sialoprotein binding
+GO:0030156,3,4,benzodiazepine receptor binding
+GO:0015155,3,6,lactose transmembrane transporter activity
+GO:0001227,3,4,"DNA-binding transcription repressor activity, RNA polymerase II-specific"
+GO:0008518,3,5,folate:anion antiporter activity
+GO:0030507,3,3,spectrin binding
+GO:0034594,3,7,phosphatidylinositol trisphosphate phosphatase activity
+GO:0001846,3,3,opsonin binding
+GO:0004984,3,4,olfactory receptor activity
+GO:0015633,3,4,ABC-type zinc transporter activity
+GO:0042924,3,5,neuromedin U binding
+GO:0005252,3,7,open rectifier potassium channel activity
+GO:1990814,3,5,DNA/DNA annealing activity
+GO:0004520,3,5,endodeoxyribonuclease activity
+GO:0004521,3,5,endoribonuclease activity
+GO:0015104,3,5,antimonite transmembrane transporter activity
+GO:0019783,3,5,ubiquitin-like protein-specific protease activity
+GO:0048018,3,4,receptor ligand activity
+GO:0043546,3,3,molybdopterin cofactor binding
+GO:0019870,3,5,potassium channel inhibitor activity
+GO:0008201,3,3,heparin binding
+GO:0005477,3,5,pyruvate secondary active transmembrane transporter activity
+GO:0019843,3,5,rRNA binding
+GO:0005304,3,5,L-valine transmembrane transporter activity
+GO:0016695,3,3,"oxidoreductase activity, acting on hydrogen as donor"
+GO:0050809,3,3,diazepam binding
+GO:0015164,3,4,glucuronoside transmembrane transporter activity
+GO:0015592,3,4,methylgalactoside transmembrane transporter activity
+GO:0016314,3,8,"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity"
+GO:0016763,3,4,pentosyltransferase activity
+GO:1902118,3,6,calcidiol binding
+GO:0009671,3,6,nitrate:proton symporter activity
+GO:0015444,3,4,P-type magnesium transporter activity
+GO:0001216,3,3,DNA-binding transcription activator activity
+GO:0086063,3,9,voltage-gated sodium channel activity involved in SA node cell action potential
+GO:0052866,3,6,phosphatidylinositol phosphate phosphatase activity
+GO:0015334,3,6,high-affinity oligopeptide transmembrane transporter activity
+GO:1903135,2,7,cupric ion binding
+GO:0009673,2,6,low-affinity phosphate transmembrane transporter activity
+GO:0015083,2,4,aluminum ion transmembrane transporter activity
+GO:0031799,2,6,type 2 metabotropic glutamate receptor binding
+GO:0034228,2,4,ethanolamine transmembrane transporter activity
+GO:0086057,2,8,voltage-gated calcium channel activity involved in bundle of His cell action potential
+GO:0001046,2,6,core promoter sequence-specific DNA binding
+GO:0015434,2,4,ABC-type cadmium transporter activity
+GO:0002054,2,3,nucleobase binding
+GO:0010854,2,5,adenylate cyclase regulator activity
+GO:2001071,2,4,maltoheptaose binding
+GO:0003774,2,1,cytoskeletal motor activity
+GO:0015538,2,5,sialic acid:proton symporter activity
+GO:0008242,2,4,omega peptidase activity
+GO:0005520,2,4,insulin-like growth factor binding
+GO:1903981,2,4,enterobactin binding
+GO:0031624,2,5,ubiquitin conjugating enzyme binding
+GO:0015478,2,5,oligosaccharide transporting porin activity
+GO:0106130,2,5,purine phosphoribosyltransferase activity
+GO:0005547,2,4,"phosphatidylinositol-3,4,5-trisphosphate binding"
+GO:0043395,2,3,heparan sulfate proteoglycan binding
+GO:0098882,2,3,structural constituent of presynaptic active zone
+GO:0140306,2,3,lipoprotein releasing activity
+GO:0019787,2,3,ubiquitin-like protein transferase activity
+GO:0015413,2,4,ABC-type nickel transporter activity
+GO:0070538,2,4,oleic acid binding
+GO:0030971,2,4,receptor tyrosine kinase binding
+GO:0042970,2,7,homoserine transmembrane transporter activity
+GO:0090448,2,4,glucosinolate:proton symporter activity
+GO:0004842,2,4,ubiquitin-protein transferase activity
+GO:0044390,2,4,ubiquitin-like protein conjugating enzyme binding
+GO:0004860,2,5,protein kinase inhibitor activity
+GO:0015231,2,4,5-formyltetrahydrofolate transmembrane transporter activity
+GO:0098918,2,2,structural constituent of synapse
+GO:0051787,2,3,misfolded protein binding
+GO:0030275,2,4,LRR domain binding
+GO:0090584,2,5,protein-phosphocysteine-galactitol-phosphotransferase system transporter activity
+GO:0010855,2,6,adenylate cyclase inhibitor activity
+GO:0102025,2,4,ABC-type thiosulfate transporter activity
+GO:0005352,2,6,alpha-glucoside:proton symporter activity
+GO:0016298,2,4,lipase activity
+GO:0005149,2,5,interleukin-1 receptor binding
+GO:0010852,2,4,cyclase inhibitor activity
+GO:1901239,2,6,malonate(1-) transmembrane transporter activity
+GO:0000102,2,5,L-methionine secondary active transmembrane transporter activity
+GO:0044183,2,1,protein folding chaperone
+GO:0090440,2,3,abscisic acid transmembrane transporter activity
+GO:0015317,2,7,phosphate:proton symporter activity
+GO:0140618,2,5,ferric-chelate reductase (NADH) activity
+GO:0000319,2,4,sulfite transmembrane transporter activity
+GO:0098750,2,4,FYXD domain binding
+GO:0042951,2,6,arbutin transmembrane transporter activity
+GO:0035256,2,5,G protein-coupled glutamate receptor binding
+GO:0031994,2,5,insulin-like growth factor I binding
+GO:1905576,2,5,ganglioside GT1b binding
+GO:0032052,2,6,bile acid binding
+GO:0016705,2,3,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"
+GO:0045159,2,5,myosin II binding
+GO:0004843,2,5,thiol-dependent deubiquitinase
+GO:0031800,2,6,type 3 metabotropic glutamate receptor binding
+GO:1903924,2,4,estradiol binding
+GO:0070324,2,3,thyroid hormone binding
+GO:0015247,2,4,aminophospholipid flippase activity
+GO:0001642,2,7,group III metabotropic glutamate receptor activity
+GO:0017056,2,2,structural constituent of nuclear pore
+GO:0004715,2,5,non-membrane spanning protein tyrosine kinase activity
+GO:0015575,2,4,mannitol transmembrane transporter activity
+GO:0019960,2,5,C-X3-C chemokine binding
+GO:0010851,2,3,cyclase regulator activity
+GO:0016723,2,4,"oxidoreductase activity, acting on metal ions, NAD or NADP as acceptor"
+GO:1902417,2,5,(+)-abscisic acid D-glucopyranosyl ester transmembrane transporter activity
+GO:0015244,2,4,fluconazole transmembrane transporter activity
+GO:0015080,2,7,silver ion transmembrane transporter activity
+GO:0015361,2,6,low-affinity sodium:dicarboxylate symporter activity
+GO:0008527,2,4,taste receptor activity
+GO:0004620,2,5,phospholipase activity
+GO:0005527,2,3,macrolide binding
+GO:0101005,2,6,deubiquitinase activity
+GO:0070728,2,5,leucine binding
+GO:0015124,2,4,allantoate transmembrane transporter activity
+GO:0033222,2,4,xylose binding
+GO:0008566,2,4,mitochondrial protein-transporting ATPase activity
+GO:0005085,2,5,guanyl-nucleotide exchange factor activity
+GO:0034190,2,4,apolipoprotein receptor binding
+GO:0015528,2,6,lactose:proton symporter activity
+GO:0140394,2,4,ABC-type azole transporter activity
+GO:0086020,2,9,gap junction channel activity involved in SA node cell-atrial cardiac muscle cell electrical coupling
+GO:0043423,2,6,3-phosphoinositide-dependent protein kinase binding
+GO:0043394,2,3,proteoglycan binding
+GO:0000049,2,5,tRNA binding
+GO:0005362,2,6,low-affinity glucose:sodium symporter activity
+GO:0015036,2,4,disulfide oxidoreductase activity
+GO:0015654,2,5,tellurite transmembrane transporter activity
+GO:0015517,2,7,galactose:proton symporter activity
+GO:0031748,2,6,D1 dopamine receptor binding
+GO:0031433,2,4,telethonin binding
+GO:0005130,2,5,granulocyte colony-stimulating factor receptor binding
+GO:0140346,2,5,phosphatidylserine flippase activity
+GO:0016936,2,3,galactoside binding
+GO:0004683,2,5,calmodulin-dependent protein kinase activity
+GO:0015572,2,4,N-acetylglucosamine transmembrane transporter activity
+GO:0045735,2,1,nutrient reservoir activity
+GO:0043522,2,5,leucine zipper domain binding
+GO:0015437,2,4,lipopolysaccharide floppase activity
+GO:0045340,2,6,mercury ion binding
+GO:0016627,2,3,"oxidoreductase activity, acting on the CH-CH group of donors"
+GO:0031489,2,5,myosin V binding
+GO:0038132,2,4,neuregulin binding
+GO:2001070,2,4,starch binding
+GO:0005300,2,6,high-affinity tryptophan transmembrane transporter activity
+GO:0015100,2,7,vanadium ion transmembrane transporter activity
+GO:0090433,2,4,palmitoyl-CoA ligase activity
+GO:0051010,2,6,microtubule plus-end binding
+GO:0043199,2,3,sulfate binding
+GO:0098809,2,4,nitrite reductase activity
+GO:0086037,2,6,P-type sodium:potassium-exchanging transporter activity involved in regulation of cardiac muscle cell membrane potential
+GO:0032050,2,4,clathrin heavy chain binding
+GO:0005358,2,8,high-affinity glucose:proton symporter activity
+GO:0002060,2,4,purine nucleobase binding
+GO:1905394,2,3,retromer complex binding
+GO:0019144,2,6,ADP-sugar diphosphatase activity
+GO:0030395,2,5,lactose binding
+GO:0005179,2,5,hormone activity
+GO:0015430,2,4,ABC-type glycerol-3-phosphate transporter activity
+GO:0003999,2,6,adenine phosphoribosyltransferase activity
+GO:0034191,2,5,apolipoprotein A-I receptor binding
+GO:0070905,2,4,serine binding
+GO:0008266,2,7,poly(U) RNA binding
+GO:0015221,2,3,lipopolysaccharide transmembrane transporter activity
+GO:0090566,2,5,"protein-phosphocysteine-N,N'-diacetylchitobiose phosphotransferase system transporter activity"
+GO:0008187,2,6,poly-pyrimidine tract binding
+GO:0015160,1,5,beta-glucan transmembrane transporter activity
+GO:0050421,1,5,nitrite reductase (NO-forming) activity
+GO:0008512,1,6,sulfate:proton symporter activity
+GO:1902557,1,4,5'-adenylyl sulfate transmembrane transporter activity
+GO:0090417,1,7,N-methylnicotinate transmembrane transporter activity
+GO:0031419,1,4,cobalamin binding
+GO:0015471,1,5,nucleoside-specific channel forming porin activity
+GO:0042577,1,6,lipid phosphatase activity
+GO:0034215,1,5,thiamine:proton symporter activity
+GO:0016966,1,5,nitric oxide reductase activity
+GO:0008558,1,4,ABC-type guanine transporter activity
+GO:0004767,1,6,sphingomyelin phosphodiesterase activity
+GO:1990380,1,7,Lys48-specific deubiquitinase activity
+GO:0004109,1,5,coproporphyrinogen oxidase activity
+GO:0005360,1,8,insulin-responsive glucose:proton symporter activity
+GO:0046857,1,4,"oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor"
+GO:0031683,1,3,G-protein beta/gamma-subunit complex binding
+GO:0043214,1,5,ABC-type bacteriocin transporter activity
+GO:0048502,1,5,ABC-type thiamine transporter activity
+GO:0048156,1,4,tau protein binding
+GO:0140414,1,2,phosphopantetheine-dependent carrier activity
+GO:0016672,1,4,"oxidoreductase activity, acting on a sulfur group of donors, quinone or similar compound as acceptor"
+GO:0043295,1,3,glutathione binding
+GO:0015611,1,6,ABC-type D-ribose transporter activity
+GO:0000146,1,2,microfilament motor activity
+GO:1904928,1,5,coreceptor activity involved in canonical Wnt signaling pathway
+GO:0015553,1,6,xanthosine transmembrane transporter activity
+GO:0051911,1,5,Methanosarcina-phenazine hydrogenase activity
+GO:0015546,1,4,sulfathiazole transmembrane transporter activity
+GO:0099528,1,4,G protein-coupled neurotransmitter receptor activity
+GO:0031924,1,4,vitamin B6 transmembrane transporter activity
+GO:0140416,1,3,transcription regulator inhibitor activity
+GO:0051427,1,4,hormone receptor binding
+GO:0004064,1,5,arylesterase activity
+GO:0008083,1,5,growth factor activity
+GO:0015426,1,5,ATPase-coupled polar amino acid-transporter activity
+GO:0015558,1,4,secondary active p-aminobenzoyl-glutamate transmembrane transporter activity
+GO:0015134,1,7,hexuronate transmembrane transporter activity
+GO:0000035,1,2,acyl binding
+GO:0008080,1,6,N-acetyltransferase activity
+GO:0070530,1,5,K63-linked polyubiquitin modification-dependent protein binding
+GO:0031928,1,4,pyridoxine transmembrane transporter activity
+GO:0061630,1,5,ubiquitin protein ligase activity
+GO:0030060,1,5,L-malate dehydrogenase activity
+GO:0015535,1,7,fucose:proton symporter activity
+GO:0034292,1,5,pinholin activity
+GO:1905131,1,4,carcinine transmembrane transporter activity
+GO:0070628,1,3,proteasome binding
+GO:0070403,1,4,NAD+ binding
+GO:0044667,1,5,(R)-carnitine:4-(trimethylammonio)butanoate antiporter activity
+GO:0050583,1,5,hydrogen dehydrogenase (NADP+) activity
+GO:0010542,1,4,nitrate efflux transmembrane transporter activity
+GO:0043539,1,6,protein serine/threonine kinase activator activity
+GO:0016799,1,4,"hydrolase activity, hydrolyzing N-glycosyl compounds"
+GO:0015650,1,5,lactate:proton symporter activity
+GO:0050304,1,5,nitrous-oxide reductase activity
+GO:0016699,1,4,"oxidoreductase activity, acting on hydrogen as donor, iron-sulfur protein as acceptor"
+GO:0015614,1,6,ABC-type D-xylose transporter activity
+GO:0015612,1,6,ABC-type L-arabinose transporter activity
+GO:0043872,1,6,lysine:cadaverine antiporter activity
+GO:0004953,1,5,icosanoid receptor activity
+GO:0016653,1,4,"oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor"
+GO:0051525,1,6,NFAT protein binding
+GO:0004035,1,6,alkaline phosphatase activity
+GO:0045294,1,3,alpha-catenin binding
+GO:0044594,1,6,17-beta-hydroxysteroid dehydrogenase (NAD+) activity
+GO:0047743,1,5,chlordecone reductase activity
+GO:0004060,1,7,arylamine N-acetyltransferase activity
+GO:0017070,1,6,U6 snRNA binding
+GO:0015284,1,7,fructose uniporter activity
+GO:0008447,1,5,L-ascorbate oxidase activity
+GO:0034216,1,6,high-affinity thiamine:proton symporter activity
+GO:0017069,1,5,snRNA binding
+GO:0015441,1,5,ABC-type beta-glucan transporter activity
+GO:0015115,1,5,silicate transmembrane transporter activity
+GO:1990254,1,4,keratin filament binding
+GO:0015327,1,5,cystine:glutamate antiporter activity
+GO:1901359,1,4,tungstate binding
+GO:0031925,1,4,pyridoxal transmembrane transporter activity
+GO:1905948,1,4,"ABC-type 3',5'-cyclic GMP transmembrane transporter activity"
+GO:0033040,1,5,sour taste receptor activity
+GO:0046923,1,5,ER retention sequence binding
+GO:0015133,1,6,uronic acid transmembrane transporter activity
+GO:0042888,1,7,molybdenum ion transmembrane transporter activity
+GO:0062158,1,5,chloride:proton antiporter activity
+GO:0005476,1,5,carnitine:acyl carnitine antiporter activity
+GO:0140108,1,8,high-affinity glucose transmembrane transporter activity
+GO:0043121,1,4,neurotrophin binding
+GO:0034658,1,6,isopropylmalate transmembrane transporter activity
+GO:0046995,1,4,"oxidoreductase activity, acting on hydrogen as donor, with other known acceptors"
+GO:0016903,1,3,"oxidoreductase activity, acting on the aldehyde or oxo group of donors"
+GO:1990935,1,3,splicing factor binding
+GO:0015576,1,4,sorbitol transmembrane transporter activity
+GO:0010290,1,3,chlorophyll catabolite transmembrane transporter activity
+GO:0005003,1,6,ephrin receptor activity
+GO:0000247,1,5,C-8 sterol isomerase activity
+GO:0030621,1,6,U4 snRNA binding
+GO:1901584,1,6,tetrapeptide transmembrane transporter activity
+GO:0048472,1,5,threonine-phosphate decarboxylase activity
+GO:0103111,1,5,D-glucosamine PTS permease activity
+GO:0016410,1,5,N-acyltransferase activity
+GO:0047086,1,5,ketosteroid monooxygenase activity
+GO:0015408,1,4,ABC-type ferric iron transporter activity
+GO:0015153,1,7,rhamnose transmembrane transporter activity
+GO:0043887,1,6,melibiose:sodium symporter activity
+GO:0033764,1,4,"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+GO:0017151,1,4,DEAD/H-box RNA helicase binding
+GO:0015518,1,6,arabinose:proton symporter activity
+GO:0042925,1,4,benzoate transmembrane transporter activity
+GO:0005124,1,4,scavenger receptor binding
+GO:0046965,1,8,retinoid X receptor binding
+GO:0015328,1,4,cystine secondary active transmembrane transporter activity
+GO:0047024,1,5,"5alpha-androstane-3beta,17beta-diol dehydrogenase activity"
+GO:0008483,1,4,transaminase activity
+GO:0030620,1,6,U2 snRNA binding
+GO:0140142,1,2,nucleocytoplasmic carrier activity
+GO:0001758,1,5,retinal dehydrogenase activity
+GO:0023026,1,4,MHC class II protein complex binding
+GO:0008079,1,4,translation termination factor activity
+GO:0030623,1,6,U5 snRNA binding
+GO:1901515,1,3,"poly-beta-1,6-N-acetyl-D-glucosamine transmembrane transporter activity"
+GO:0035663,1,5,Toll-like receptor 2 binding
+GO:0061693,1,5,alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase activity
+GO:0008138,1,4,protein tyrosine/serine/threonine phosphatase activity
+GO:0070404,1,4,NADH binding
+GO:0140030,1,3,modification-dependent protein binding
+GO:0031762,1,5,follicle-stimulating hormone receptor binding
+GO:0008965,1,5,phosphoenolpyruvate-protein phosphotransferase activity
+GO:0042609,1,4,CD4 receptor binding
+GO:0033232,1,5,ABC-type D-methionine transporter activity
+GO:0086040,1,8,sodium:proton antiporter activity involved in regulation of cardiac muscle cell membrane potential
+GO:0004447,1,3,iodide peroxidase activity
+GO:0004497,1,3,monooxygenase activity
+GO:0003743,1,4,translation initiation factor activity
+GO:0008427,1,6,calcium-dependent protein kinase inhibitor activity
+GO:0004769,1,5,steroid delta-isomerase activity
+GO:0003688,1,7,DNA replication origin binding
+GO:0022869,1,5,protein-N(PI)-phosphohistidine-lactose phosphotransferase system transporter activity
+GO:0002055,1,5,adenine binding
+GO:0016860,1,3,intramolecular oxidoreductase activity
+GO:0046332,1,3,SMAD binding
+GO:0004089,1,5,carbonate dehydratase activity
+GO:0097573,1,4,glutathione oxidoreductase activity
+GO:0036173,1,3,thiosulfate binding
+GO:0010858,1,5,calcium-dependent protein kinase regulator activity
+GO:0042834,1,4,peptidoglycan binding
+GO:0016404,1,5,15-hydroxyprostaglandin dehydrogenase (NAD+) activity
+GO:0016756,1,4,glutathione gamma-glutamylcysteinyltransferase activity
+GO:0098641,1,5,cadherin binding involved in cell-cell adhesion
+GO:0000036,1,3,acyl carrier activity
+GO:0015209,1,5,cytosine transmembrane transporter activity
+GO:0016835,1,3,carbon-oxygen lyase activity
+GO:0015655,1,6,alanine:sodium symporter activity
+GO:0090565,1,5,protein-phosphocysteine-mannitol phosphotransferase system transporter activity
+GO:0086079,1,9,gap junction channel activity involved in Purkinje myocyte-ventricular cardiac muscle cell electrical coupling
+GO:0106151,1,3,CNBH domain intrinsic ligand binding
+GO:0000100,1,4,S-methylmethionine transmembrane transporter activity
+GO:0061659,1,4,ubiquitin-like protein ligase activity
+GO:0016830,1,3,carbon-carbon lyase activity
+GO:0016780,1,4,"phosphotransferase activity, for other substituted phosphate groups"
+GO:0071949,1,5,FAD binding
+GO:0008195,1,6,phosphatidate phosphatase activity
+GO:1901236,1,4,4-(trimethylammonio)butanoate transmembrane transporter activity
+GO:0015577,1,4,galactitol transmembrane transporter activity
+GO:0005297,1,8,proline:proton symporter activity
+GO:0005549,1,2,odorant binding
+GO:0046028,1,4,"electron transporter, transferring electrons from cytochrome b6/f complex of photosystem II activity"
+GO:0003959,1,4,NADPH dehydrogenase activity
+GO:0030233,1,5,deoxynucleotide transmembrane transporter activity
+GO:0051381,1,3,histamine binding
+GO:0042881,1,4,D-galactonate transmembrane transporter activity
+GO:0015649,1,6,2-keto-3-deoxygluconate:proton symporter activity
+GO:0015638,1,4,microcin transmembrane transporter activity
+GO:0060175,1,4,brain-derived neurotrophic factor-activated receptor activity
+GO:0001848,1,3,complement binding
+GO:0061578,1,7,Lys63-specific deubiquitinase activity
+GO:0055055,1,8,D-glucose:proton symporter activity
+GO:1905201,1,3,gibberellin transmembrane transporter activity
+GO:0015503,1,5,glutathione-regulated potassium exporter activity
+GO:0005160,1,5,transforming growth factor beta receptor binding
+GO:0005030,1,3,neurotrophin receptor activity
+GO:0004016,1,3,adenylate cyclase activity
+GO:0031927,1,4,pyridoxamine transmembrane transporter activity
+GO:1901691,1,4,proton binding
+GO:0045236,1,6,CXCR chemokine receptor binding
+GO:0016696,1,4,"oxidoreductase activity, acting on hydrogen as donor, NAD or NADP as acceptor"
+GO:0061751,1,7,neutral sphingomyelin phosphodiesterase activity
+GO:0098632,1,5,cell-cell adhesion mediator activity
+GO:0043858,1,6,arginine:ornithine antiporter activity
+GO:0045174,1,2,glutathione dehydrogenase (ascorbate) activity
+GO:0008374,1,5,O-acyltransferase activity
+GO:0015130,1,4,mevalonate transmembrane transporter activity
+GO:0004364,1,4,glutathione transferase activity
+GO:0016765,1,3,"transferase activity, transferring alkyl or aryl (other than methyl) groups"
+GO:0035410,1,5,dihydrotestosterone 17-beta-dehydrogenase activity
+GO:0016615,1,4,malate dehydrogenase activity
+GO:0004998,1,2,transferrin receptor activity
+GO:0015089,1,8,high-affinity copper ion transmembrane transporter activity
+GO:0042392,1,7,sphingosine-1-phosphate phosphatase activity
+GO:0019785,1,6,ISG15-specific protease activity
+GO:0004622,1,5,lysophospholipase activity
+GO:0061840,1,9,high-affinity ferrous iron transmembrane transporter activity
+GO:0008490,1,5,arsenite secondary active transmembrane transporter activity
+GO:0023023,1,3,MHC protein complex binding
+GO:0001851,1,4,complement component C3b binding
+GO:0004969,1,6,histamine receptor activity
+GO:0008429,1,4,phosphatidylethanolamine binding
+GO:0042960,1,5,antimonite secondary active transmembrane transporter activity
+GO:0016634,1,4,"oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor"
+GO:1904121,1,5,phosphatidylethanolamine transfer activity
+GO:0043893,1,6,acetate:cation symporter activity
+GO:0048408,1,3,epidermal growth factor binding
+GO:0005184,1,6,neuropeptide hormone activity
+GO:0090581,1,5,protein-phosphocysteine-mannosylglycerate-phosphotransferase system transporter activity
+GO:0016208,1,4,AMP binding
+GO:0015418,1,4,ABC-type quaternary ammonium compound transporting activity
+GO:0004303,1,5,estradiol 17-beta-dehydrogenase activity
+GO:0047750,1,5,cholestenol delta-isomerase activity
+GO:0016863,1,4,"intramolecular oxidoreductase activity, transposing C=C bonds"
+GO:0016775,1,4,"phosphotransferase activity, nitrogenous group as acceptor"
+GO:0008493,1,5,tetracycline transmembrane transporter activity
+GO:0030283,1,5,testosterone dehydrogenase [NAD(P)] activity
+GO:0016769,1,3,"transferase activity, transferring nitrogenous groups"
+GO:0008750,1,6,NAD(P)+ transhydrogenase (AB-specific) activity
+GO:0015527,1,4,glycerol-phosphate:inorganic phosphate antiporter activity
+GO:0015568,1,4,L-idonate transmembrane transporter activity
+GO:0008081,1,5,phosphoric diester hydrolase activity
+GO:0034450,1,6,ubiquitin-ubiquitin ligase activity
+GO:0015625,1,4,ABC-type ferric hydroxamate transporter activity
+GO:0071855,1,5,neuropeptide receptor binding
+GO:0022893,1,6,low-affinity tryptophan transmembrane transporter activity
+GO:0030619,1,6,U1 snRNA binding
+GO:0010011,1,3,auxin binding
+GO:0042974,1,7,retinoic acid receptor binding
+GO:0044620,1,3,ACP phosphopantetheine attachment site binding
+GO:0060590,1,2,ATPase regulator activity
+GO:0000007,1,8,low-affinity zinc ion transmembrane transporter activity
+GO:0106219,1,2,zinc ion sensor activity
+GO:0015035,1,3,protein-disulfide reductase activity
+GO:0047045,1,5,testosterone 17-beta-dehydrogenase (NADP+) activity
+GO:0102545,1,5,phosphatidyl phospholipase B activity
+GO:0009975,1,2,cyclase activity
+GO:0016831,1,4,carboxy-lyase activity
+GO:0009675,1,7,high-affinity sulfate:proton symporter activity
+GO:0031593,1,4,polyubiquitin modification-dependent protein binding
+GO:0048403,1,5,brain-derived neurotrophic factor binding
+GO:0061810,1,6,NAD glycohydrolase activity
+GO:0047286,1,5,NAD+-diphthamide ADP-ribosyltransferase activity
+GO:0008235,1,5,metalloexopeptidase activity
+GO:0042944,1,6,D-alanine transmembrane transporter activity
+GO:0015156,1,6,melibiose transmembrane transporter activity
+GO:1901974,1,4,glycerate transmembrane transporter activity
+GO:0016709,1,4,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen"
+GO:0015496,1,5,putrescine:ornithine antiporter activity
+GO:0000810,1,6,diacylglycerol diphosphate phosphatase activity
+GO:0072582,1,6,17-beta-hydroxysteroid dehydrogenase (NADP+) activity
+GO:0008009,1,6,chemokine activity
+GO:0033142,1,7,progesterone receptor binding
+GO:0047035,1,6,testosterone dehydrogenase (NAD+) activity
+GO:0008106,1,6,alcohol dehydrogenase (NADP+) activity
+GO:0015487,1,5,melibiose:cation symporter activity
+GO:0008942,1,5,nitrite reductase [NAD(P)H] activity
+GO:0005518,1,3,collagen binding
+GO:0097434,1,7,succinate:proton symporter activity
+GO:0031459,1,5,ABC-type glycine betaine transporter activity
+GO:0016907,1,5,G protein-coupled acetylcholine receptor activity
+GO:0047044,1,5,"androstan-3-alpha,17-beta-diol dehydrogenase activity"
+GO:0047023,1,5,androsterone dehydrogenase activity
+GO:0008516,1,6,hexose uniporter activity
+GO:0015038,1,5,glutathione disulfide oxidoreductase activity
+GO:0042379,1,5,chemokine receptor binding
+GO:0022872,1,5,protein-N(PI)-phosphohistidine-mannitol phosphotransferase system transmembrane transporter activity
+GO:0015519,1,6,D-xylose:proton symporter activity
+GO:1901604,1,4,dethiobiotin transmembrane transporter activity
+GO:0016755,1,3,aminoacyltransferase activity
+GO:0016620,1,4,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"
+GO:0051192,1,2,prosthetic group binding
+GO:0030973,1,4,molybdate ion binding
+GO:0003707,1,3,steroid hormone receptor activity
+GO:0090586,1,5,protein-phosphocysteine-N-acetylglucosamine phosphotransferase system transporter activity
+GO:0071861,1,6,tachykinin receptor binding
+GO:0005125,1,5,cytokine activity
+GO:0003953,1,5,NAD+ nucleosidase activity
+GO:0016836,1,4,hydro-lyase activity
+GO:0005004,1,7,GPI-linked ephrin receptor activity
+GO:0004954,1,6,prostanoid receptor activity
+GO:0030151,1,6,molybdenum ion binding
+GO:0008901,1,5,ferredoxin hydrogenase activity
+GO:0019215,1,3,intermediate filament binding
+GO:0090588,1,5,protein-phosphocysteine-N-acetylmuramate phosphotransferase system transporter activity
+GO:0030599,1,5,pectinesterase activity
+GO:0008020,1,4,G protein-coupled photoreceptor activity
+GO:0016688,1,3,L-ascorbate peroxidase activity
+GO:0016407,1,5,acetyltransferase activity
+GO:0034618,1,4,arginine binding
+GO:0015661,1,5,L-lysine efflux transmembrane transporter activity
+GO:0062061,1,3,TAP complex binding
+GO:0033039,1,5,salty taste receptor activity
+GO:1990756,1,3,ubiquitin ligase-substrate adaptor activity
+GO:0004955,1,7,prostaglandin receptor activity
+GO:0016798,1,3,"hydrolase activity, acting on glycosyl bonds"
+GO:0098631,1,4,cell adhesion mediator activity
+GO:0033219,1,3,urea binding
+GO:0015531,1,7,citrate:proton symporter activity
+GO:0097677,1,6,STAT family protein binding
+GO:0005049,1,3,nuclear export signal receptor activity
+GO:0004032,1,7,alditol:NADP+ 1-oxidoreductase activity
+GO:0016229,1,3,steroid dehydrogenase activity
+GO:0015360,1,7,acetate:proton symporter activity
