@@ -3,7 +3,7 @@ Framework implementing deep learning generative models for novel enzyme design
 
 This endeavour was developed in the context of a Master's Thesis at University of Minho 
 
-#Deep learning generative models for novel enzyme design.
+# Deep learning generative models for novel enzyme design.
 
 The objective of this work was to develop a platform to generate new protein sequences, using different deep learning architectures and, 
 through the use of evolutionary computation, steer the generative process towards determined optimization objectives. 
