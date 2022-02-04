@@ -22,7 +22,6 @@ conda env create --file environment_vae.yml
 
 # Authors
 
-- Miguel Martins
-- Miguel Rocha
-- Vítor Pereira
-
+- Miguel Martins (Msc Bioinformatics at University of Minho)
+- Miguel Rocha (University of Minho)
+- Vítor Pereira (University of Minho)
