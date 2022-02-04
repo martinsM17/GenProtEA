@@ -20,3 +20,9 @@ conda env create --file environment_gan.yml
 
 conda env create --file environment_vae.yml
 
+# Authors
+
+- Miguel Martins
+- Miguel Rocha
+- Vítor Pereira
+
